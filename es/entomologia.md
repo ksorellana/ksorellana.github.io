@@ -1,8 +1,8 @@
 **[Go to English version](https://ksorellana.github.io/)**
 
-| [Inicio](https://ksorellana.github.io/es/inicio) | [Anthribidae](https://ksorellana.github.io/es/anthribidae) | [Digitalización](https://ksorellana.github.io/es/digitalizacion) | [Biodiversidad de Guatemala](https://ksorellana.github.io/es/biodiversidadgt) | [Galería](https://ksorellana.github.io/es/galeria) |
+| [Inicio](https://ksorellana.github.io/es/inicio) | [Anthribidae](https://ksorellana.github.io/es/anthribidae) | [Digitalización](https://ksorellana.github.io/es/digitalizacion) | [Entomología](https://ksorellana.github.io/es/entomologia) | [Galería](https://ksorellana.github.io/es/galeria) |
 
-# Biodiversidad de Guatemala
+**# Investigación en entomología**
 
 El estudio de la biodiversidad de Guatemala es uno de mis intereses principales, en especial la diversidad de insectos. A lo largo mi carrera, he colaborado activamente con las principales [colecciones entomológicas](http://insectosdeguatemala.org/colecciones/) de Guatemala, donde están depositados los especímenes que colecté y preparé durante varios proyectos de investigación en el país. En 2015 edité, junto al Dr. Jiichiro Yoshimoto y al Dr. Enio Cano (†), el libro de Insectos de Guatemala, el cual se ha convertido en una importante herramienta para los estudiantes de entomología en el país.
 
