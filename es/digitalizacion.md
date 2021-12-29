@@ -5,7 +5,6 @@
 
 # Digitalización de colecciones con Symbiota
 
-<img src="/_layouts/LogoPortalFotos.jpg" alt="Logo" width="500" height="500"> 
-![Logo Portal](/_layouts/LogoPortalFotos.jpg)
+<img src="/_layouts/LogoPortalFotos.jpg" alt="Logo" width="400" height="400"> 
 
 
