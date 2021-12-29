@@ -15,6 +15,9 @@ El estudio de la biodiversidad de Guatemala es uno de mis intereses principales,
 | *Portada de la primera edición de Insectos de Guatemala* |
 
 
+
+# Investigación en entomología
+
 Desde inicios de 2020, inicié una colaboración a distancia para digitalizar los especímenes entomológicos, y esto se expandió a colecciones de otros grupos (27 hasta diciembre 2021) en tres instituciones universitarias del país. Esto dio como resultado el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/), en el cual se están digitalizando activamente las colecciones biológicas del país. Otros especímenes de insectos de Guatemala se encuentran digitalizados en el perfil de mi [colección](https://serv.biokic.asu.edu/ecdysis/content/collicon/soac-soac.jpg).
 
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="100" height="100">](https://biodiversidad.gt/portal/)
