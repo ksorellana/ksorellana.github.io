@@ -1,6 +1,6 @@
 **[Go to English version](https://ksorellana.github.io/)**
 
-| **[Anthribidae](https://ksorellana.github.io/es/anthribidae) | [Digitalización](https://ksorellana.github.io/es/blog) | [Insectos de Guatemala](insectosdeguatemala.org) | [Blog](https://ksorellana.github.io/es/blog)** |
+| **[Anthribidae](https://ksorellana.github.io/es/anthribidae) | [Digitalización](https://ksorellana.github.io/es/digitalizacion) | [Insectos de Guatemala](http://insectosdeguatemala.org) | [Blog](https://ksorellana.github.io/es/blog)** |
 
 ![Eugonus robustus Jordan](https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014307_lateral_edited_1613605757.jpg)
 
