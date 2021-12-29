@@ -1,11 +1,9 @@
-## K. Samanta Orellana
-I am a biologist and entomologist.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to my website!
+I will try to keep it updated with my projects.
 
 ### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a Guatemalan biologist and entomologist, currently pursuing a PhD in Evolutionary Biology at Arizona State University. My group of interest is the family Anthribidae.
 
 ```markdown
 Syntax highlighted code block
