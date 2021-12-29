@@ -7,11 +7,16 @@ Entomological collections, digitization, and anthribids!
 
 I am a Guatemalan biologist and entomologist, currently pursuing a PhD in Evolutionary Biology at Arizona State University. My current research focuses on the diversity and systematics of the "fungus weevils", the family Anthribidae (Coleoptera: Curculionoidea). I also invest a lot of time digitizing and imaging the specimens I am checking here at the [ASU Biocollections](https://biokic.asu.edu/collections), so more researchers can have access to the information. You can find the specimens on [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php). To share what I have learned, I am helping to expand the efforts of collections digitization in Latin America using [Symbiota portals](https://biodiversidad.gt/portal/), with the help of the Symbiota Support Group and iDigBio. I lead the [Guatemala Symbiota Portal](https://biodiversidad.gt/portal/), where colleagues in my home country are digitizing the national collections. 
 
-Syntax highlighted code block
+![Samanta Orellana](https://pbs.twimg.com/profile_images/1349619780060286976/Dlwts-bR_400x400.jpg).
 
-# Header 1
-## Header 2
-### Header 3
+## Current projects
+- [Anthribidae](https://ksorellana.github.io/anthribidae)
+- [Samanta Orellana Collection](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=20)
+- [Guatemala Portal](https://biodiversidad.gt/portal/)
+
+### Websites
+- [Twitter](twitter.com/coleopterasam)
+- [Guatemala Portal](https://biodiversidad.gt/portal/)
 
 - Bulleted
 - List
@@ -21,10 +26,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
