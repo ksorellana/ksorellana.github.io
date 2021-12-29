@@ -1,6 +1,5 @@
-[Anthribidae](https://ksorellana.github.io/anthribidae) [Digitization](https://ksorellana.github.io/digitization) 
-
 ![Eugonodes brevirostris Jordan, from Panama.](https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014307_lateral_edited_1613605757.jpg)
+Eugonodes brevirostris Jordan, from Panama.
 
 ### About me
 
