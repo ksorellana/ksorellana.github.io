@@ -16,4 +16,4 @@ Ejemplar de _Lechriops_ Schoenherr (Curculionidae: Conoderinae) colectado en el 
 |:--:| 
 | *Ejemplar de una posible especie nueva de _Lechriops_ Schoenherr (Curculionidae: Conoderinae), colectado en el jardín de mi casa en Guatemala. Identificado por Salvatore Anzaldo.* |
 
-![Conoderinae](https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_lateral-_edited_1598589951.jpg)
+
