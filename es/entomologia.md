@@ -6,6 +6,10 @@
 
 El estudio de la biodiversidad de Guatemala es uno de mis intereses principales, en especial la diversidad de insectos. A lo largo mi carrera, he colaborado activamente con las principales [colecciones entomológicas](http://insectosdeguatemala.org/colecciones/) del país, donde están depositados muchos de los especímenes que colecté y preparé durante varios proyectos de investigación. Entre ellos, mi [tesis de licenciatura](http://www.repositorio.usac.edu.gt/2036/1/06_3652.pdf), que se enfocó en la diversidad de coleópteros fungívoros del Parque Nacional Laguna Lachuá, al norte de Guatemala. Mi trabajo obtuvo un reconocimiento como la mejor tesis de Biología de 2014.
 
+| <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_lateral-_edited_1598589951.jpg" alt="Conoderinae" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_dorsal-edited_1598589997.jpg" alt="Conoderinae" width="320" height="213.4"> | 
+|:--:| 
+| *Portada de la primera edición de Insectos de Guatemala* |
+
 En 2015 edité, junto al Dr. Jiichiro Yoshimoto y al Dr. Enio Cano (†), el libro de Insectos de Guatemala, el cual se ha convertido en una importante herramienta para los estudiantes de entomología en el país. En 2018 se publicó la segunda edición, con la inclusión de algunos grupos adicionales.
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Afichejpg.jpg?raw=true" width="428.8" height="638.8"> | 
