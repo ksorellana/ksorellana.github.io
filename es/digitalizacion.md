@@ -5,8 +5,9 @@
 
 # Digitalización de colecciones con Symbiota
 
-<img src="/_layouts/LogoPortalFotos.jpg" alt="Logo" width="400" height="400"> 
+<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="300" height="300"> 
 <img src="https://symbiota.org/wp-content/uploads/LogoSymbiotaPNG-1980x1318.png" width="660" height="439.33"> 
+
 
 
 
