@@ -5,7 +5,7 @@
 
 # Digitalización de colecciones con Symbiota
 
-Durante mi tiempo como asistente de investigación en las Biocolecciones de Arizona State University, tuve la oportunidad de aprender acerca de la digitalización de especímenes entomológicos en ecdysis, uno de los portales Symbiota manejados desde ASU. Symbiota es una plataforma de código abierto, para generar portales que permiten el manejo y movilización de colecciones biológicas de todo tipo, lo que facilita su utilización por todo tipo de instituciones aunque no cuenten con una gran infraestructura tecnológica.
+Durante mi tiempo como asistente de investigación en las [Biocolecciones de Arizona State University](https://biokic.asu.edu/collections), tuve la oportunidad de aprender acerca de la digitalización de especímenes entomológicos en [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php), uno de los portales Symbiota manejados desde ASU. [Symbiota](symbiota.org) es una plataforma de código abierto, para generar portales que permiten el manejo y movilización de colecciones biológicas de todo tipo, lo que facilita su utilización por todo tipo de instituciones aunque no cuenten con una gran infraestructura tecnológica.
 
 <img src="https://symbiota.org/wp-content/uploads/LogoSymbiotaPNG-1980x1318.png" width="330" height="219.66"> 
  
@@ -13,7 +13,7 @@ Desde inicios de 2020, inicié una colaboración a distancia con curadores en Gu
 
 <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="200" height="200"> 
        
-       
+
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo Symbiota" width="100" height="100">](https://biodiversidad.gt/portal/)
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Insectos.jpg?raw=true" alt="Logo Insectos de Guatemala" width="150" height="150">](http://insectosdeguatemala.org/)
 [<img src="https://serv.biokic.asu.edu/ecdysis/content/collicon/soac-soac.jpg" alt="Logo" width="100" height="100">](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=20)
