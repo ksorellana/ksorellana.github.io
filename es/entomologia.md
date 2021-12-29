@@ -4,6 +4,8 @@
 
 # Investigaciones en entomología
 
+## Guatemala
+
 El estudio de la biodiversidad de Guatemala es uno de mis intereses principales, en especial la diversidad de insectos. A lo largo mi carrera, he colaborado activamente con las principales [colecciones entomológicas](http://insectosdeguatemala.org/colecciones/) del país, donde están depositados muchos de los especímenes que colecté y preparé durante varios proyectos de investigación. Uno de los proyectos más relevantes, fue mi [tesis de licenciatura](http://www.repositorio.usac.edu.gt/2036/1/06_3652.pdf), que se enfocó en la diversidad de coleópteros fungívoros del Parque Nacional Laguna Lachuá, al norte de Guatemala. Durante esta investigación tuve la oportunidad de trabajar con la preparación e identificación de ejemplares de varias familias asociadas a hongos, principalmente Staphylinidae, Erotylidae, Ptiliidae y Nitidulidae. Un [poster](https://www.researchgate.net/publication/322702818_Coleopteros_asociados_a_Marasmiaceae_y_Polyporaceae_en_la_selva_lluviosa_de_Lachua_Guatemala) fue presentado con los hallazgoss, durante el VIII Congreso Latinoamericano de Micología, en Colombia. Mi trabajo final obtuvo un reconocimiento como la mejor tesis de Biología de 2014 en la Universidad de San Carlos de Guatemala, y fue [publicado](https://zenodo.org/record/3968462#.YcyzklllCUl) el año siguiente, junto con mi asesora, la Dra. Maura Quezada, especialista en macrohongos. 
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SE.jpg?raw=true" alt="Parque Lachuá" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/F026.jpg?raw=true" alt="Gyrophaenina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Cookeina.jpg?raw=true" alt="Cookeina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Palpos2.jpg?raw=true" height="213.4">  | 
@@ -15,6 +17,9 @@ Al terminar mi estudios de Biología, continué con las investigaciones entomol�
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Afichejpg.jpg?raw=true" width="428.8" height="638.8"> | 
 |:--:| 
 | *Afiche de la primera edición de Insectos de Guatemala* |
+
+
+## Panamá
 
 De 2016-2018 tuve la oportunidad de obtener una Maestría en Entomología en Panamá, donde inicié con el estudio de la familia Anthribidae. Durante mi tiempo en ese país, también continúé con la colecta de coleópteros fungívorosl
 Desde inicios de 2020, inicié una colaboración a distancia para digitalizar los especímenes entomológicos, y esto se expandió a colecciones de otros grupos (27 hasta diciembre 2021) en tres instituciones universitarias del país. Esto dio como resultado el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/), en el cual se están digitalizando activamente las colecciones biológicas del país. Otros especímenes de insectos de Guatemala se encuentran digitalizados en el perfil de mi [colección](https://serv.biokic.asu.edu/ecdysis/content/collicon/soac-soac.jpg).
