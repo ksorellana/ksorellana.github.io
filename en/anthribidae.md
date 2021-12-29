@@ -5,6 +5,7 @@
 # Family Anthribidae (Coleoptera: Curculionoidea)
 
 ![Gymnognathus claudia Jordan](https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg)
-![Gymnognathus claudia Jordan](https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg =250*250)
+
+<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Gymnognathus claudia Jordan" width="250" height="250
 
 Under construction!
