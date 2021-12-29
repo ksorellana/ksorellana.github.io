@@ -11,7 +11,7 @@ Durante mi tiempo como asistente de investigación en las [Biocolecciones de Ari
  
 Desde inicios de 2020, inicié una colaboración a distancia con curadores en Guatemala, para digitalizar las [colecciones entomológicas](http://insectosdeguatemala.org/colecciones/), y esto se expandió a colecciones de otros grupos (27 hasta diciembre 2021) en tres instituciones universitarias del país. Esto dio como resultado el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/), en el cual se están digitalizando activamente las colecciones biológicas locales. Otros especímenes de insectos de Guatemala se encuentran digitalizados en el perfil de mi [colección](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=20&stat=taxonomy#taxonomystats).
 
-[<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="200" height="200">]((https://biodiversidad.gt/portal/))
+[<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="200" height="200">]((https://biodiversidad.gt/portal/)
        
 
 # Recursos relacionados
