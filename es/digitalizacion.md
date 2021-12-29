@@ -5,7 +5,6 @@
 
 # Digitalización de colecciones con Symbiota
 
-![](https://symbiota.org/wp-content/uploads/LogoSymbiotaPNG-1980x1318.png)
 <img src="/_layouts/LogoPortalFotos.jpg" alt="Logo" width="400" height="400"> 
 <img src="https://symbiota.org/wp-content/uploads/LogoSymbiotaPNG-1980x1318.png" width="660" height="439.33"> 
 
