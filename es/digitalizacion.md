@@ -9,7 +9,11 @@ Durante mi tiempo como asistente de investigación en las [Biocolecciones de Ari
 
 [<img src="https://symbiota.org/wp-content/uploads/LogoSymbiotaPNG-1980x1318.png" width="330" height="219.66">](https://symbiota.org)
  
-Desde inicios de 2020, inicié una colaboración a distancia con curadores en Guatemala, para digitalizar las [colecciones entomológicas](http://insectosdeguatemala.org/colecciones/), y esto se expandió a colecciones de otros grupos (27 hasta diciembre 2021) en tres instituciones universitarias del país. Esto dio como resultado el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/), en el cual se están digitalizando activamente las colecciones biológicas locales. Otros especímenes de insectos de Guatemala se encuentran digitalizados en el perfil de mi [colección](https://serv.biokic.asu.edu/ecdysis/content/collicon/soac-soac.jpg).
+Desde inicios de 2020, inicié una colaboración a distancia con curadores en Guatemala, para digitalizar las [colecciones entomológicas](http://insectosdeguatemala.org/colecciones/), y esto se expandió a colecciones de otros grupos (27 hasta diciembre 2021) en tres instituciones universitarias del país. Esto dio como resultado el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/), en el cual se están digitalizando activamente las colecciones biológicas locales. Otros especímenes de insectos de Guatemala se encuentran digitalizados en el perfil de mi [colección](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=20&stat=taxonomy#taxonomystats).
 
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="200" height="200">]((https://biodiversidad.gt/portal/))
        
+
+# Recursos relacionados
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hzHcj20PILs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
