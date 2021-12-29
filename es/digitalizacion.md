@@ -16,5 +16,5 @@ Desde inicios de 2020, inicié una colaboración a distancia con curadores en Gu
 
 # Recursos relacionados
 
-[![Watch the video](https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ECN_Digitization_EJI.jpg?raw=true)](https://youtu.be/hzHcj20PILs)
+[<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ECN_Digitization_EJI.jpg?raw=true" alt="ECN Digitization" width="320" height="213.4">](https://youtu.be/hzHcj20PILs)
 
