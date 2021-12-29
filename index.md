@@ -16,7 +16,7 @@ I am a Guatemalan biologist and entomologist, currently pursuing a PhD in Evolut
 - [Anthribidae](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxa=Anthribidae&usethes=1&taxontype=4)
 - [Samanta Orellana Collection](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=20)
 - [Guatemala Portal](https://biodiversidad.gt/portal/)
-- [Insectos de Guatemala](https://insectosdeguatemala.org)
+- [Insectos de Guatemala](http://insectosdeguatemala.org/)
 
 ### Websites and Social Media
 - [ASU iSearch](https://isearch.asu.edu/profile/3433157)
