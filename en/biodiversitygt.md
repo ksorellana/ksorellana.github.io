@@ -8,7 +8,7 @@
 ![Conoderinae](https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_lateral-_edited_1598589951.jpg)
 
 <img src="/_layouts/LogoPortalFotos.jpg" alt="Logo" width="400" height="400"> 
-<img src="/_layouts/Mapa_Gt.jpg" alt="Logo" width="400" height="380"> 
+<img src="/_layouts/Mapa_Gt.jpg" alt="Logo" width="450" height="380"> 
 
 
 
