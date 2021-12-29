@@ -4,7 +4,9 @@
 
 # Investigación en entomología
 
-El estudio de la biodiversidad de Guatemala es uno de mis intereses principales, en especial la diversidad de insectos. A lo largo mi carrera, he colaborado activamente con las principales [colecciones entomológicas](http://insectosdeguatemala.org/colecciones/) del país, donde están depositados muchos de los especímenes que colecté y preparé durante varios proyectos de investigación. En 2015 edité, junto al Dr. Jiichiro Yoshimoto y al Dr. Enio Cano (†), el libro de Insectos de Guatemala, el cual se ha convertido en una importante herramienta para los estudiantes de entomología en el país.
+El estudio de la biodiversidad de Guatemala es uno de mis intereses principales, en especial la diversidad de insectos. A lo largo mi carrera, he colaborado activamente con las principales [colecciones entomológicas](http://insectosdeguatemala.org/colecciones/) del país, donde están depositados muchos de los especímenes que colecté y preparé durante varios proyectos de investigación. Entre ellos, mi [tesis de licenciatura](http://www.repositorio.usac.edu.gt/2036/1/06_3652.pdf), que se enfocó en la diversidad de coleópteros fungívoros del Parque Nacional Laguna Lachuá, al norte de Guatemala. Mi trabajo obtuvo un reconocimiento como la mejor tesis de Biología de 2014.
+
+En 2015 edité, junto al Dr. Jiichiro Yoshimoto y al Dr. Enio Cano (†), el libro de Insectos de Guatemala, el cual se ha convertido en una importante herramienta para los estudiantes de entomología en el país. En 2018 se publicó la segunda edición, con la inclusión de algunos grupos adicionales.
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Afichejpg.jpg?raw=true" width="428.8" height="638.8"> | 
 |:--:| 
@@ -12,6 +14,7 @@ El estudio de la biodiversidad de Guatemala es uno de mis intereses principales,
 
 # Investigación en entomología
 
+De 2016-2018 tuve la oportunidad de obtener una Maestría en Entomología en Panamá, donde inicié con el estudio de la familia Anthribidae. Durante mi tiempo en ese país, también continúé con la colecta de coleópteros fungívorosl
 Desde inicios de 2020, inicié una colaboración a distancia para digitalizar los especímenes entomológicos, y esto se expandió a colecciones de otros grupos (27 hasta diciembre 2021) en tres instituciones universitarias del país. Esto dio como resultado el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/), en el cual se están digitalizando activamente las colecciones biológicas del país. Otros especímenes de insectos de Guatemala se encuentran digitalizados en el perfil de mi [colección](https://serv.biokic.asu.edu/ecdysis/content/collicon/soac-soac.jpg).
 
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="100" height="100">](https://biodiversidad.gt/portal/)
