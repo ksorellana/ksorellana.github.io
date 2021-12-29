@@ -2,5 +2,8 @@
 
 | [Home](https://ksorellana.github.io) | [Anthribidae](https://ksorellana.github.io/en/anthribidae) | [Digitization](https://ksorellana.github.io/en/digitization) | [Biodiversity of Guatemala](https://ksorellana.github.io/en/biodiversitygt) | [Gallery](https://ksorellana.github.io/en/gallery)   
 
-# Using Symbiota
+# Collection digitization using Symbiota
+
+<img src="/_layouts/LogoPortalFotos.jpg" alt="Logo" width="400" height="400"> 
+
 Under construction!
