@@ -1,5 +1,4 @@
 ![Eugonodes brevirostris Jordan, from Panama.](https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014307_lateral_edited_1613605757.jpg)
-_Eugonodes brevirostris_ Jordan, from Panama.
 
 ### About me
 
