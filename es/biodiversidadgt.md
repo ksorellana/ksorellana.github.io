@@ -21,6 +21,11 @@ Aún hay muchos ejemplares sin identificar
 
 | <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_lateral-_edited_1598589951.jpg" alt="Conoderinae" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_dorsal-edited_1598589997.jpg" alt="Conoderinae" width="320" height="213.4"> | 
 |:--:| 
+| *Portada de la primera edición de Insectos de Guatemala* |
+
+
+| <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_lateral-_edited_1598589951.jpg" alt="Conoderinae" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_dorsal-edited_1598589997.jpg" alt="Conoderinae" width="320" height="213.4"> | 
+|:--:| 
 | *Ejemplar de una posible especie nueva de _Lechriops_ Schoenherr (Curculionidae: Conoderinae), colectado en el jardín de mi casa en Guatemala. Identificado por Salvatore Anzaldo.* |
 
 
