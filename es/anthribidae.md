@@ -4,6 +4,6 @@
 
 # Familia Anthribidae
 
-![Gymnognathus ophiopsis Dalman](https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014240_lateral_edited_1624909166.jpg)
+![Gymnognathus claudia Jordan](https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg)
 
 ¡En construcción!
