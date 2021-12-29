@@ -1,4 +1,4 @@
-## K. Samanta Orellana
+# K. Samanta Orellana
 Entomological collections, digitization, and anthribids!
 
 
