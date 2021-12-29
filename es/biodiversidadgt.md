@@ -13,7 +13,7 @@ A lo largo mi carrera, he colaborado activamente con las principales [coleccione
 ![Conoderinae](https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_lateral-_edited_1598589951.jpg)
 Ejemplar de _Lechriops_ Schoenherr (Curculionidae: Conoderinae) colectado en el jardín de mi casa en Guatemala. Probablemente una nueva especie. (Identificado por Salvatore Anzaldo).
 
-| ![Cono](https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_lateral-_edited_1598589951.jpg) | 
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_lateral-_edited_1598589951.jpg" alt="Conoderinae" width="100" height="100">](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=20) | 
 |:--:| 
-| *Space* |
+| *Ejemplar de _Lechriops_ Schoenherr (Curculionidae: Conoderinae) colectado en el jardín de mi casa en Guatemala. Probablemente una nueva especie. (Identificado por Salvatore Anzaldo).* |
 
