@@ -16,10 +16,10 @@ Desde inicios de 2020, inicié una colaboración a distancia con curadores en Gu
 
 # Recursos relacionados
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/embed/hzHcj20PILs)
-
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/hzHcj20PILs)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hzHcj20PILs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+https://youtu.be/hzHcj20PILs<VIDEO ID>
+https://youtu.be/<VIDEO URL>
