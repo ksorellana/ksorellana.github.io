@@ -8,7 +8,7 @@ El estudio de la biodiversidad de Guatemala es uno de mis intereses principales,
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SE.jpg?raw=true" alt="Parque Lachuá" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/F026.jpg?raw=true" alt="Gyrophaenina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Cookeina.jpg?raw=true" alt="Cookeina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Palpos2.jpg?raw=true" height="213.4">  | 
 |:--:| 
-| *De izq. a der. 1. Parque Nacional Laguna Lachuá. Ejemplar de Gyrophaenina sp. (Staphylinidae: Aleocharinae: Homalotini). Hongo Cookeina speciosa (Fr). Maxila de Gyrophaenina.* |
+| *De izq. a der. 1.) Parque Nacional Laguna Lachuá. 2.) Ejemplar de Gyrophaenina sp. (Staphylinidae: Aleocharinae: Homalotini). 3.) Hongo Cookeina speciosa (Fr). 4.) Maxila de Gyrophaenina.* |
 
 
 En 2015 edité, junto al Dr. Jiichiro Yoshimoto y al Dr. Enio Cano (†), el libro de Insectos de Guatemala, el cual se ha convertido en una importante herramienta para los estudiantes de entomología en el país. En 2018 se publicó la segunda edición, con la inclusión de algunos grupos adicionales.
