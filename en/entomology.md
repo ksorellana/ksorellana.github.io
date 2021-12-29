@@ -3,7 +3,7 @@
 
 | [Home](https://ksorellana.github.io) | [Anthribidae](https://ksorellana.github.io/en/anthribidae) | [Digitization](https://ksorellana.github.io/en/digitization) | [Entomology](https://ksorellana.github.io/en/entomology) | [Gallery](https://ksorellana.github.io/en/gallery)   
 
-# Biodiversity of Guatemala
+# Research in entomology
 
 ![Conoderinae](https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_lateral-_edited_1598589951.jpg)
 
