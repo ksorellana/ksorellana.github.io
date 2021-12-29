@@ -4,6 +4,12 @@
 
 # Investigaciones en entomología
 
+
+| <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_lateral-_edited_1598589951.jpg" alt="Conoderinae" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_dorsal-edited_1598589997.jpg" alt="Conoderinae" width="320" height="213.4"> | 
+|:--:| 
+| *Ejemplar de Lechriops Schoenherr (Curculionidae: Conederinae), colectado en el jardín de mi casa. Identificado como una posible nueva especie por el Dr. Salvatore Anzaldo* |
+
+
 ## Guatemala
 
 El estudio de la biodiversidad de Guatemala es uno de mis intereses principales, en especial la diversidad de insectos. A lo largo mi carrera, he colaborado activamente con las principales [colecciones entomológicas](http://insectosdeguatemala.org/colecciones/) del país, donde están depositados muchos de los especímenes que colecté y preparé durante varios proyectos de investigación. Uno de los proyectos más relevantes, fue mi [tesis de licenciatura](http://www.repositorio.usac.edu.gt/2036/1/06_3652.pdf), que se enfocó en la diversidad de coleópteros fungívoros del Parque Nacional Laguna Lachuá, al norte de Guatemala. Durante esta investigación tuve la oportunidad de trabajar con la preparación e identificación de ejemplares de varias familias asociadas a hongos, principalmente Staphylinidae, Erotylidae, Ptiliidae y Nitidulidae. Un [poster](https://www.researchgate.net/publication/322702818_Coleopteros_asociados_a_Marasmiaceae_y_Polyporaceae_en_la_selva_lluviosa_de_Lachua_Guatemala) fue presentado con los hallazgos, durante el VIII Congreso Latinoamericano de Micología, en Colombia. Mi trabajo final obtuvo un reconocimiento como la mejor tesis de Biología de 2014 en la Universidad de San Carlos de Guatemala, y fue [publicado](https://zenodo.org/record/3968462#.YcyzklllCUl) el año siguiente, junto con mi asesora, la Dra. Maura Quezada, especialista en macrohongos. 
@@ -38,10 +44,3 @@ De 2016 a 2018, t
 [<img src="https://serv.biokic.asu.edu/ecdysis/content/collicon/soac-soac.jpg" alt="Logo" width="100" height="100">](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=20)
 
 Aún hay muchos ejemplares sin identificar
-
-| <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_lateral-_edited_1598589951.jpg" alt="Conoderinae" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_dorsal-edited_1598589997.jpg" alt="Conoderinae" width="320" height="213.4"> | 
-|:--:| 
-| *Portada de la primera edición de Insectos de Guatemala* |
-
-
-
