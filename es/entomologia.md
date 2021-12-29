@@ -23,6 +23,13 @@ Al terminar mi estudios de Biología, continué con las investigaciones entomol�
 
 De 2016 a 2018, tuve la oportunidad de estudiar una Maestría en Entomología en Panamá, donde inicié con el estudio de la familia Anthribidae. Durante mi tiempo en ese país, también continúé con la colecta de coleópteros fungívoros y publiqué un pequeño [estudio](https://zenodo.org/record/3968793#.Ycy1JlllCUk) con especímenes del Parque Natural Metropolitano, en Ciudad de Panamá. Está de más resaltar que la diversidad de coleópteros es impresionante en esa región.
 
+## Costa Rica
+
+De 2016 a 2018, t
+
+## Estados Unidos
+
+De 2016 a 2018, t
 
 ## Enlaces relevantes
 
