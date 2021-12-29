@@ -3,7 +3,7 @@
 ![Eugonus robustus Jordan](https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014307_lateral_edited_1613605757.jpg)
 
 
-# Acerca de mí
+## Acerca de mí
 Soy una bióloga y entomóloga guatemalteca, actualmente en [Arizona State University](https://isearch.asu.edu/profile/3433157), completando un doctorado en Biología Evolutiva. Mis investigaciones actuales se enfocan en la diversidad y sistemática de los "gorgojos de los hongos", la familia Anthribidae (Coleoptera: Curculionoidea. También invierto mucho tiempo digitalizando y fotografiando los especímenes que estoy estudiando en las [Biocolecciones de ASU](https://biokic.asu.edu/collections). Pueden encontrar los especímenes en [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php). Para compartir lo que he aprendido, estoy ayudando a expandir los esfuerzos de la digitalización de colecciones en Latinoamérica usando [portales Symbiota](https://biodiversidad.gt/portal/), con la ayuda del Symbiota Support Group de iDigBio. Para contribuir directamente con mi país, lidero el [Portal Symbiota de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/), en el cual curadores e investigadores guatemaltecos están digitalizando las colecciones nacionales. 
 
 ![Samanta Orellana](https://pbs.twimg.com/profile_images/1349619780060286976/Dlwts-bR_400x400.jpg).
