@@ -4,8 +4,8 @@
 
 # Collection digitization using Symbiota
 
-<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="300" height="300"> 
 <img src="https://symbiota.org/wp-content/uploads/LogoSymbiotaPNG-1980x1318.png" width="495" height="329.5"> 
+<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="300" height="300"> 
 
 
 Under construction!
