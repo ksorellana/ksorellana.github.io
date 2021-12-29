@@ -1,5 +1,8 @@
 **[Ir a versión en español](https://ksorellana.github.io/es/inicio)** 
 
+| [Home](https://ksorellana.github.io) | [Anthribidae](https://ksorellana.github.io/en/anthribidae) | [Digitization](https://ksorellana.github.io/en/digitization) 
+
+
 ![Eugonodes brevirostris Jordan, from Panama.](https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014307_lateral_edited_1613605757.jpg)
 
 ## About me
