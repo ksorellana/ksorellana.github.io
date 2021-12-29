@@ -12,7 +12,7 @@ El estudio de la biodiversidad de Guatemala es uno de mis intereses principales,
 |:--:| 
 | *De izq. a der. 1.) Parque Nacional Laguna Lachuá. 2.) Ejemplar de Gyrophaenina sp. (Staphylinidae: Aleocharinae: Homalotini). 3.) Hongo Cookeina speciosa (Fr). 4.) Maxila de Gyrophaenina.* |
 
-Al terminar mi estudios de Biología, continué con las investigaciones entomológicas en el sector privado, y seguí vinculada a las colecciones nacionales para depositar [vouchers](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=20&stat=taxonomy#taxonomystats) provenientes de los monitoreos. En 2015 edité, junto al Dr. Jiichiro Yoshimoto y al Dr. Enio Cano (†), el libro de Insectos de Guatemala, el cual se ha convertido en una importante herramienta para los estudiantes de entomología en el país. En 2018 se publicó la segunda edición, con la inclusión de algunos grupos adicionales.
+Al terminar mi estudios de Biología, continué con las investigaciones entomológicas en el sector privado, y seguí vinculada a las colecciones nacionales para depositar vouchers provenientes de los monitoreos. En 2015 edité, junto al Dr. Jiichiro Yoshimoto y al Dr. Enio Cano (†), el libro de Insectos de Guatemala, el cual se ha convertido en una importante herramienta para los estudiantes de entomología en el país. En 2018 se publicó la segunda edición, con la inclusión de algunos grupos adicionales.
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Afichejpg.jpg?raw=true" width="321.6" height="479.1"> | 
 |:--:| 
@@ -21,8 +21,10 @@ Al terminar mi estudios de Biología, continué con las investigaciones entomol�
 
 ## Panamá
 
-De 2016-2018 tuve la oportunidad de obtener una Maestría en Entomología en Panamá, donde inicié con el estudio de la familia Anthribidae. Durante mi tiempo en ese país, también continúé con la colecta de coleópteros fungívorosl
-Desde inicios de 2020, inicié una colaboración a distancia para digitalizar los especímenes entomológicos, y esto se expandió a colecciones de otros grupos (27 hasta diciembre 2021) en tres instituciones universitarias del país. Esto dio como resultado el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/), en el cual se están digitalizando activamente las colecciones biológicas del país. Otros especímenes de insectos de Guatemala se encuentran digitalizados en el perfil de mi [colección](https://serv.biokic.asu.edu/ecdysis/content/collicon/soac-soac.jpg).
+De 2016 a 2018, tuve la oportunidad de estudiar una Maestría en Entomología en Panamá, donde inicié con el estudio de la familia Anthribidae. Durante mi tiempo en ese país, también continúé con la colecta de coleópteros fungívoros y publiqué un pequeño [estudio](https://zenodo.org/record/3968793#.Ycy1JlllCUk) con especímenes del Parque Natural Metropolitano, en Ciudad de Panamá. Está de más resaltar que la diversidad de coleópteros es impresionante en esa región.
+
+
+## Enlaces relevantes
 
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="100" height="100">](https://biodiversidad.gt/portal/)
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Insectos.jpg?raw=true" alt="Logo" width="150" height="150">](http://insectosdeguatemala.org/)
