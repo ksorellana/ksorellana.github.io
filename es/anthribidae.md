@@ -1,4 +1,6 @@
-[Inicio] (https://ksorellana.github.io/es/inicio) | Digitalización | Insectos de Guatemala | Blog
+**[Go to English version](https://ksorellana.github.io/)**
+
+**| [Inicio](https://ksorellana.github.io/es)| [Anthribidae](https://ksorellana.github.io/es/anthribidae) | [Digitalización](https://ksorellana.github.io/es/digitalizacion) | [Insectos de Guatemala](http://insectosdeguatemala.org) | [Blog](https://ksorellana.github.io/es/blog) |**
 
 # Familia Anthribidae
 
