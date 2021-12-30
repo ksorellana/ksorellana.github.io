@@ -13,10 +13,10 @@ As a part of the [Symbiota Support Hub of iDigBio](https://www.idigbio.org/conta
 ![Samanta Orellana](https://pbs.twimg.com/profile_images/1349619780060286976/Dlwts-bR_400x400.jpg).
 
 ## Current projects
-- [Anthribidae](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxa=Anthribidae&usethes=1&taxontype=4)
+- [Anthribidae](https://ksorellana.github.io/anthribidae)
 - [Samanta Orellana Collection](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=20)
 - [Guatemala Portal](https://biodiversidad.gt/portal/)
-- [Insectos de Guatemala](http://insectosdeguatemala.org/)
+- [Insects of Guatemala](http://insectosdeguatemala.org/)
 
 ## Websites and Social Media
 - [ASU iSearch](https://isearch.asu.edu/profile/3433157)
