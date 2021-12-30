@@ -29,7 +29,7 @@ De 2016 a 2018, tuve la oportunidad de estudiar una Maestría en Entomología en
 |:--:| 
 | *1.) Hongo Polyporal. 2.) Parque Natural Metropolitano. 3.) Muestra de insectos colectados en hongos. 4.) Scaphidiinae (Staphylinidae) sobre hongo.* |
 
-Más adelante, por motivación del Dr. Héctor Barrios, mi asesor de la maestría, me enfoqué en un grupo que no estaba entre los coleópteros fungívoros que colecté, pero que se encontraba en abundancia (y sin identificación alguna) en su colección de Curculionoidea: la familia Anthribidae. 
+Más adelante, por motivación del Dr. Héctor Barrios, mi asesor de la maestría, me enfoqué en un grupo que no estaba entre los coleópteros fungívoros que colecté, pero que se encontraba en abundancia (y sin identificación alguna) en su colección de Curculionoidea: la familia Anthribidae. Mi trabajo de tesis consistió en la revisión de las especies de Anthribidae de Panamá para generar un catálogo actualizado y una clave para los géneros registrados en el país, los cuales fueron publicados más adelante. 
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Colecci%C3%B3nMEUP2018.jpg?raw=true" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Colecci%C3%B3nMIUP2018.jpg?raw=true" width="320" height="213.4">  | 
 |:--:| 
@@ -37,11 +37,15 @@ Más adelante, por motivación del Dr. Héctor Barrios, mi asesor de la maestrí
 
 ## Costa Rica
 
-De 2016 a 2018, t
+En 2018, luego de finalizar la maestría, continúe reuniendo información de Anthribidae de otros países de Centro América y visité las colecciones entomológicas de la Universidad de Costa Rica. También pude visitar algunos bosques de la región norte y sur del país.
+
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Colecci%C3%B3nUCR.jpg?raw=true" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LasCruces.jpg?raw=true" width="320" height="213.4">  | 
+|:--:| 
+| *1.) Colección del Museo de Insectos de la UCR. 2.) Estación Biológica Las Cruces, Puntarenas.* |
 
 ## Estados Unidos
 
-De 2016 a 2018, t
+Llegué a Arizona en 2019, donde continué con la construcción del catálogo de Anthribidae de Panamá. Aquí tuve acceso a la increíble colección O'Brien, con más de dos millones de especímenes de Curculionoidea y alrededor de 20,000 antríbidos. Más adelante pude visitar la colección del Museo Nacional de Historia Natural Smithsonian, y pude completar el catálogo para su publicación.  
 
 | <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_lateral-_edited_1598589951.jpg" alt="Conoderinae" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_dorsal-edited_1598589997.jpg" alt="Conoderinae" width="320" height="213.4"> | 
 |:--:| 
