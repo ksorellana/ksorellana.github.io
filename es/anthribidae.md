@@ -14,32 +14,32 @@
 | Anthribinae |  | *Eugonus* Schoenherr | 4 |
 | Anthribinae |  | *Phaenithon* Schoenherr | 16 |
 | Anthribinae | Corrhecerini | *Corrhecerus* Schoenherr | 1 |
-| Anthribinae | Corrhecerini | *Nemotrichus* Labram & Imhoff | 6 |
+| Anthribinae |  | *Nemotrichus* Labram & Imhoff | 6 |
 | Anthribinae | Cratoparini | *Euparius* Schoenherr | 10 |
 | Anthribinae | Discotenini | *Discotenes* Labram & Imhoff | 2 |
 | Anthribinae | Gymnognathini | *Domoptolis* Jordan | 1 |
-| Anthribinae | Discotenini | *Gymnognathus* Schoenherr | 12 |
-| Anthribinae | Ischnocerini | *Meconemus* Labram & Imhoff | 5 |
-| Anthribinae | Piesocorynini | *Brevibarra* Jordan | 1 |
-| Anthribinae | Piesocorynini | *Lagopezus* Dejean | 2 |
-| Anthribinae | Piesocorynini | *Piesocorynus* Dejean | 11 |
-| Anthribinae | Piesocorynini | *Piezobarra* Jordan | 1 |
-| Anthribinae | Platyrhinini | *Anthiera* Alonso-Zarazaga & Lyal | 1 |
-| Anthribinae | Platyrhinini | *Homocloeus* Jordan | 4 |
-| Anthribinae | Platyrhinini | *Monocloeus* Jordan | 1 |
-| Anthribinae | Platyrhinini | *Strabus* Jekel  | 15 |
-| Anthribinae | Platystomini | *Toxonotus* Lacordaire  | 10 |
-| Anthribinae | Ptychoderini | *Hypselotropis* Jekel  | 1 |
-| Anthribinae | Ptychoderini | *Ptychoderes* Schoenherr  | 5 |
-| Anthribinae | Stenocerini | *Allandrus* LeConte  | 1 |
-| Anthribinae | Stenocerini | *Stenocerus* Schoenherr  | 4 |
-| Anthribinae | Zygaenodini | *Eusphyrus* LeConte  | 5 |
-| Anthribinae | Zygaenodini | *Ormiscus* Waterhouse  | 6 |
-| Anthribinae | Zygaenodini | *Scymnopis* Jordan  | 1 |
+| Anthribinae |  | *Gymnognathus* Schoenherr | 12 |
+|  | Ischnocerini | *Meconemus* Labram & Imhoff | 5 |
+|  | Piesocorynini | *Brevibarra* Jordan | 1 |
+|  |  | *Lagopezus* Dejean | 2 |
+|  |  | *Piesocorynus* Dejean | 11 |
+|  |  | *Piezobarra* Jordan | 1 |
+|  | Platyrhinini | *Anthiera* Alonso-Zarazaga & Lyal | 1 |
+|  |  | *Homocloeus* Jordan | 4 |
+|  |  | *Monocloeus* Jordan | 1 |
+|  |  | *Strabus* Jekel  | 15 |
+|  | Platystomini | *Toxonotus* Lacordaire  | 10 |
+|  | Ptychoderini | *Hypselotropis* Jekel  | 1 |
+|  |  | *Ptychoderes* Schoenherr  | 5 |
+|  | Stenocerini | *Allandrus* LeConte  | 1 |
+|  |  | *Stenocerus* Schoenherr  | 4 |
+|  | Zygaenodini | *Eusphyrus* LeConte  | 5 |
+|  |  | *Ormiscus* Waterhouse  | 6 |
+|  |  | *Scymnopis* Jordan  | 1 |
 | Choraginae | Araecerini | *Araecerus* Schoenherr  | 1 |
-| Choraginae | Araecerini | *Neoxenus* Valentine  | 2 |
-| Choraginae | Choragini | *Dysnos* Pascoe  | 2 |
-| Choraginae | Choragini | *Holostilpna* Jordan  | 2 |
+|  |  | *Neoxenus* Valentine  | 2 |
+|  | Choragini | *Dysnos* Pascoe  | 2 |
+|  |  | *Holostilpna* Jordan  | 2 |
 |Total| 14 tribus | 30 géneros | 134 especies |
 
 # Colección O'Brien (ASUCOB)
