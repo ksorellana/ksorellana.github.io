@@ -6,7 +6,7 @@
 
 Me he dedicado al estudio de la diversidad de **Anthribidae** (Coleoptera: Curculionoidea) desde 2016, cuando seleccioné esta familia para realizar mi tesis de maestría en Panamá. El primer año de trabajo consistió de muchas horas estudiando la poca literatura disponible, para poder reconocer las subfamilias, tribus, géneros y especies que estaban disponibles en las colecciones panameñas. 
 
-|<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt= Gymnognathus height=400>|
+|<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt= Gymnognathus height=400> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_frontal_edited_1624914202.jpg" alt= Gymnognathus height=400>|
 |:--:|
 |*Gymnognathus claudia* Jordan, de Panamá|
 
