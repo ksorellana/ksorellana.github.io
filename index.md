@@ -23,4 +23,5 @@ As a part of the [Symbiota Support Hub of iDigBio](https://www.idigbio.org/conta
 - [ORCID](https://orcid.org/0000-0002-4098-5823)
 - [ResearchGate](https://www.researchgate.net/profile/Samanta_Orellana)
 - [Bionomia](https://bionomia.net/0000-0002-4098-5823)
+- [iNaturalist](https://www.inaturalist.org/people/s_orellana)
 - [Twitter](https://twitter.com/coleopterasam)
