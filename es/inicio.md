@@ -1,12 +1,13 @@
 **[Go to English version](https://ksorellana.github.io/)**
 
-| [Inicio](https://ksorellana.github.io/es/inicio) | [Anthribidae](https://ksorellana.github.io/es/anthribidae) | [Digitalización](https://ksorellana.github.io/es/digitalizacion) | [Entomología](https://ksorellana.github.io/es/entomologia) | [Galería](https://ksorellana.github.io/es/galeria) |
+| [Inicio](https://ksorellana.github.io/es/inicio) | [Entomología](https://ksorellana.github.io/es/entomologia) | [Anthribidae](https://ksorellana.github.io/es/anthribidae) | [Digitalización](https://ksorellana.github.io/es/digitalizacion) |  [Galería](https://ksorellana.github.io/es/galeria) |
+
 
 ![Eugonus robustus Jordan](https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014307_lateral_edited_1613605757.jpg)
 
 
 ## Acerca de mí
-Soy una bióloga y entomóloga guatemalteca, actualmente en [Arizona State University](https://isearch.asu.edu/profile/3433157), realizando un doctorado en Biología Evolutiva. Mis investigaciones actuales se enfocan en la diversidad y sistemática de la familia Anthribidae (Coleoptera: Curculionoidea), conocidos comúnmente como "gorgojos de los hongos". Durante este tiempo, también estoy digitalizando y fotografiando los especímenes que estoy estudiando en las [Biocolecciones de ASU](https://biokic.asu.edu/collections). Pueden encontrar los datos e imágenes de los especímenes en [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php). 
+Soy una bióloga y [entomóloga](https://ksorellana.github.io/entomologia) guatemalteca, actualmente en [Arizona State University](https://isearch.asu.edu/profile/3433157), realizando un doctorado en Biología Evolutiva. Mis investigaciones actuales se enfocan en la diversidad y sistemática de la familia [Anthribidae](https://ksorellana.github.io/anthribidae) (Coleoptera: Curculionoidea), conocidos comúnmente como "gorgojos de los hongos". Durante este tiempo, también estoy digitalizando y fotografiando los especímenes que estoy estudiando en las [Biocolecciones de ASU](https://biokic.asu.edu/collections). Pueden encontrar los datos e imágenes de los especímenes en [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php). 
 
 Además, como parte del [Symbiota Support Hub de iDigBio](https://www.idigbio.org/contact/Samanta_Orellana), estoy ayudando a expandir los esfuerzos de la digitalización de colecciones biológicas en Latinoamérica, usando [portales Symbiota](https://symbiota.org/). Lidero el [Portal Symbiota de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/), en el cual se están digitalizando las colecciones nacionales. 
 
