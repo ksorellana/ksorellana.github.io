@@ -8,4 +8,4 @@
 |:--:| 
 | *1.) Parque Nacional Laguna Lachuá. 2.) Ejemplar de Gyrophaenina sp. (Staphylinidae: Aleocharinae: Homalotini). 3.) Hongo Cookeina speciosa (Fr). 4.) Maxila de Gyrophaenina.* |
 
-!SanLorenzo(https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SanLorenzo2017.jpg?raw=true)
+!(https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SanLorenzo2017.jpg?raw=true)
