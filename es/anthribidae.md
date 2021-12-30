@@ -9,4 +9,4 @@
 
 |Anthribidae de Panamá|
 |:--:| 
-|Subfamilia|Tribu|Género|# de especies|
+|Subfamilia||Tribu||Género||# de especies|
