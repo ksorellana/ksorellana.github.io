@@ -4,6 +4,8 @@
 
 # Familia Anthribidae
 
+Me he dedicado al estudio de la diversidad de Anthribidae de Centroamérica desde 2016, cuando seleccioné esta familia para realizar mi tesis de maestría en Panamá. El primer año de trabajo consistió de muchas horas estudiando la poca literatura disponible, para poder reconocer las subfamilias, tribus, géneros y especies que estaban disponibles en las colecciones panameñas. Al darme cuenta de la falta de recursos para identificar este grupo, decidí concentrarme en hacer un catálogo actualizado y un a clave taxonómica para identificar los géneros registrados en ese país. Luego de revisar los ejemplares en Panamá, completé los registros estudiando los especímenes panameños en las colecciones de Arizona State University (ASUCOB, ASUHIC) y del Smithsonian National Museum of Natural History (NMNH). El catálogo de los Anthribidae de Panamá fue publicado a prinicipios de 2021, en la revista _Zootaxa_.   
+
 ![Gymnognathus claudia Jordan](https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg)
 
 # Anthribidae de Panamá
