@@ -14,7 +14,7 @@ Me he dedicado al estudio de la diversidad de **Anthribidae** (Coleoptera: Curcu
 
 The main idea of my thesis was to make a review of the genus _Gymnognathus_ Schoenherr of Panama, but the resources to identify the genera and species were so rare, that I decided to focus on building an updated catalogue of the species in the country, and a taxonomic key to genus level. After identifying the specimenes in Panama, I completed the catalogue with the Panamanian specimens in the collections at Arizona State University (ASUCOB, ASUHIC) and the Smithsonian National Museum of Natural History (NMNH), where the specimens of B.D Valentine are now housed. The catalogue of the [Anthribidae of Panama](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera) was published earlier in 2021, in the journal _Zootaxa_.   
 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Zootaxa.jpg?raw=true" height=600> | 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Zootaxa.jpg?raw=true" height=400> | 
 |:--:| 
 | *Front page of the Catalogue of the Anthribidae of Panama.* |
 
