@@ -4,7 +4,7 @@
 
 # Trabajo de campo y viajes
 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Volc%C3%A1nOros%C3%AD.jpg?raw=true" alt="Orosí"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SanVito.jpg?raw=true" alt="San Vito"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ErotylidaeSanVito.jpg?raw=true" alt="Erotylidae"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Liberia.jpg?raw=true" alt="Liberia">  | 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Volc%C3%A1nOros%C3%AD.jpg?raw=true" alt="Orosí"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Liberia.jpg?raw=true" alt="Liberia">  | 
 |:--:| 
 | *Guanacaste, Costa Rica* |
 
