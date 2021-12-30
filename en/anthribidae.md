@@ -5,7 +5,7 @@
 
 # Familia Anthribidae
 
-I have dedicated to the study of the diversity of **Anthribidae** (Coleoptera: Curculionoidea) since 2016, when I chose to work with this family for my M.S. dissertation in Panama. An updated catalog of the Panamanian species and a key to local genera  was published in 2021 as a result. My current research as a PhD student, is focused on the systematics on the group, as I am looking to build the first upper-level phylogeny of the family. I am also working on the revision of Gymnognathus for Central America, and on species catalogues for the rest of the countries in the region. 
+I have dedicated to the study of the diversity of **Anthribidae** (Coleoptera: Curculionoidea) since 2016, when I chose to work with this family for my M.S. dissertation in Panama. An updated catalog of the Panamanian species and a key to local genera  was published in 2021 as a result. My current research as a PhD student, is focused on the systematics on the group, as I am looking to build the first upper-level phylogeny of the family. I am also working on the revision of _Gymnognathus_ Schoenherr for Central America, and on species catalogues for the rest of the countries in the region. 
 
 | <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Conoderinae" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_dorsal_edited_1624914182.jpg" alt="Conoderinae" width="320" height="213.4"> | 
 |:--:| 
