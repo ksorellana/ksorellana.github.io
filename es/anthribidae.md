@@ -41,4 +41,4 @@
 | Choraginae | Araecerini | *Neoxenus* Valentine  | 2 |
 | Choraginae | Choragini | *Dysnos* Pascoe  | 2 |
 | Choraginae | Choragini | *Holostilpna* Jordan  | 2 |
-|Total| 14 | 30 | 134 |
+|Total| 14 tribus | 30 géneros | 134 especies |
