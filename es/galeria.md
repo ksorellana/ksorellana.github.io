@@ -14,9 +14,3 @@
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BIC2016.jpg?raw=true" width="340" height="440"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BCISOrellana2016.jpg?raw=true" width="340" height="440"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ErotylidaeBCI2016.jpg?raw=true" width="680" height="440">|
 |:--:| 
 | *Isla Barro Colorado, Panamá* |
-
-
-
-<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Staphylinidae.jpg?raw=true" alt="Gyrophaenina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Cookeinaspeciosa2011.jpg?raw=true" alt="Cookeina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Palpos2.jpg?raw=true" height="213.4">  | 
-|:--:| 
-| *1.) Parque Nacional Laguna Lachuá. 2.) Ejemplar de Gyrophaenina sp. (Staphylinidae: Aleocharinae: Homalotini). 3.) Hongo Cookeina speciosa (Fr). 4.) Maxila de Gyrophaenina.* |
