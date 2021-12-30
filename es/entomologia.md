@@ -27,7 +27,7 @@ De 2016 a 2018, tuve la oportunidad de estudiar una Maestría en Entomología en
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/1_Polyporal.jpg?raw=true" alt="Hongo Polyporal" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/2_Sendero.jpg?raw=true" alt="Parque Metropolitano" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Muestra.jpg?raw=true" alt="Cookeina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/6_Scaphidiinae.jpg?raw=true" height="213.4">  | 
 |:--:| 
-| *1.Hongo Polyporal. 2.) Parque Natural Metropolitano. 3.) Muestra de insectos colectados en hongos. 4.) Scaphidiinae (Staphylinidae) sobre hongo.* |
+| *1.) Hongo Polyporal. 2.) Parque Natural Metropolitano. 3.) Muestra de insectos colectados en hongos. 4.) Scaphidiinae (Staphylinidae) sobre hongo.* |
 
 Más adelante, por motivación del Dr. Héctor Barrios, mi asesor de la maestría, me enfoqué en un grupo que estaba entre los coleópteros fungívoros que colecté, pero que se encontraba en abundancia (y sin identificación alguna) en su colección de Curculionoidea: la familia Anthribidae. 
 
