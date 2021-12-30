@@ -9,7 +9,7 @@ I have dedicated to the study of the diversity of **Anthribidae** (Coleoptera: C
 
 | <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_dorsal_edited_1624914182.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Mapa_AnthribidaePuntos_CentroAmerica_Elev.png?raw=true" alt="Mapa" width="420" height="350"> | 
 |:--:| 
-|*Gymnognathus claudia* Jordan, de Panamá|
+|1.), 2.) *Gymnognathus claudia* Jordan, from Panama, lateral and dorsal view. 3.) Map of Central America|
 
 
 # Anthribidae of Panama
