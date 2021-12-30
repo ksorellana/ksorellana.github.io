@@ -10,15 +10,15 @@
 
 | Subfamilia | Tribu | Género | # de especies |
 |-------|--------|---------|---------|
-| Anthribinae | Basitropini | *Eugonodes* Jordan | 1 |
-| Anthribinae |  | *Eugonus* Schoenherr | 4 |
-| Anthribinae |  | *Phaenithon* Schoenherr | 16 |
-| Anthribinae | Corrhecerini | *Corrhecerus* Schoenherr | 1 |
-| Anthribinae |  | *Nemotrichus* Labram & Imhoff | 6 |
-| Anthribinae | Cratoparini | *Euparius* Schoenherr | 10 |
-| Anthribinae | Discotenini | *Discotenes* Labram & Imhoff | 2 |
-| Anthribinae | Gymnognathini | *Domoptolis* Jordan | 1 |
-| Anthribinae |  | *Gymnognathus* Schoenherr | 12 |
+| **Anthribinae** | Basitropini | *Eugonodes* Jordan | 1 |
+|  |  | *Eugonus* Schoenherr | 4 |
+|  |  | *Phaenithon* Schoenherr | 16 |
+|  | Corrhecerini | *Corrhecerus* Schoenherr | 1 |
+|  |  | *Nemotrichus* Labram & Imhoff | 6 |
+|  | Cratoparini | *Euparius* Schoenherr | 10 |
+|  | Discotenini | *Discotenes* Labram & Imhoff | 2 |
+|  | Gymnognathini | *Domoptolis* Jordan | 1 |
+|  |  | *Gymnognathus* Schoenherr | 12 |
 |  | Ischnocerini | *Meconemus* Labram & Imhoff | 5 |
 |  | Piesocorynini | *Brevibarra* Jordan | 1 |
 |  |  | *Lagopezus* Dejean | 2 |
@@ -36,7 +36,7 @@
 |  | Zygaenodini | *Eusphyrus* LeConte  | 5 |
 |  |  | *Ormiscus* Waterhouse  | 6 |
 |  |  | *Scymnopis* Jordan  | 1 |
-| Choraginae | Araecerini | *Araecerus* Schoenherr  | 1 |
+| **Choraginae** | Araecerini | *Araecerus* Schoenherr  | 1 |
 |  |  | *Neoxenus* Valentine  | 2 |
 |  | Choragini | *Dysnos* Pascoe  | 2 |
 |  |  | *Holostilpna* Jordan  | 2 |
