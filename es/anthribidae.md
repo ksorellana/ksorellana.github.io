@@ -10,3 +10,9 @@
 |Anthribidae de Panamá|
 |:--:| 
 |Subfamilia||Tribu||Género||# de especies|
+
+| Subfamilia | Tribu | Género | # de especies |
+|-------|--------|---------|---------|
+| Anthribinae | Basitropini | *Eugonodes* | 1 |
+| Anthribinae | Basitropini | *Eugonus* | 6 |
+| Anthribinae | Basitropini | *Phaenithon* | 15 |
