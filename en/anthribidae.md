@@ -5,21 +5,23 @@
 
 # Familia Anthribidae
 
-Me he dedicado al estudio de la diversidad de **Anthribidae** (Coleoptera: Curculionoidea) desde 2016, cuando seleccioné esta familia para realizar mi tesis de maestría en Panamá. El primer año de trabajo consistió de muchas horas estudiando la poca literatura disponible, para poder reconocer las subfamilias, tribus, géneros y especies que estaban disponibles en las colecciones panameñas. 
+I have dedicated to the study of the diversity of **Anthribidae** (Coleoptera: Curculionoidea) since 2016, when I chose to work with this family for my M.S. dissertation in Panama. An updated catalog of the Panamanian species and a key to local genera  was published in 2021 as a result. My current research as a PhD student, is focused on the systematics on the group, as I am looking to build the first upper-level phylogeny of the family. I am also working on the revision of Gymnognathus for Central America, and on species catalogues for the rest of the countries in the region. 
 
 | <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Conoderinae" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_dorsal_edited_1624914182.jpg" alt="Conoderinae" width="320" height="213.4"> | 
 |:--:| 
 |*Gymnognathus claudia* Jordan, de Panamá|
 
 
-The main idea of my thesis was to make a review of the genus _Gymnognathus_ Schoenherr of Panama, but the resources to identify the genera and species were so rare, that I decided to focus on building an updated catalogue of the species in the country, and a taxonomic key to genus level. After identifying the specimenes in Panama, I completed the catalogue with the Panamanian specimens in the collections at Arizona State University (ASUCOB, ASUHIC) and the Smithsonian National Museum of Natural History (NMNH), where the specimens of B.D Valentine are now housed. The catalogue of the [Anthribidae of Panama](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera) was published earlier in 2021, in the journal _Zootaxa_.   
+# Anthribidae of Panama
+
+The main idea of my M.S. dissertation was to make a review of the genus _Gymnognathus_ Schoenherr of Panama, but the resources to identify the genera and species were so rare, that I decided to focus on building an updated catalogue of the species in the country, and a taxonomic key to genus level. After identifying the specimenes in Panama, I completed the catalogue with the Panamanian specimens in the collections at Arizona State University (ASUCOB, ASUHIC) and the Smithsonian National Museum of Natural History (NMNH), where the specimens of B.D Valentine are now housed. The catalogue of the [Anthribidae of Panama](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera) was published earlier in 2021, in the journal _Zootaxa_.   
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Zootaxa.jpg?raw=true" height=400> | 
 |:--:| 
 | *Front page of the Catalogue of the Anthribidae of Panama.* |
 
-# Anthribidae of Panama
 
+### Summary of the groups of Anthribidae in Panama, based in Orellana & Barrios, 2021
 | Subfamily | Tribe | Genera | # of species |
 |-------|--------|---------|---------|
 | **Anthribinae** | Basitropini | *Eugonodes* Jordan | 1 |
@@ -52,7 +54,7 @@ The main idea of my thesis was to make a review of the genus _Gymnognathus_ Scho
 |  |  | *Neoxenus* Valentine  | 2 |
 |  | Choragini | *Dysnos* Pascoe  | 2 |
 |  |  | *Holostilpna* Jordan  | 2 |
-|Total| 14 tribus | 30 géneros | 134 especies |
+|Total| 14 tribes | 30 genera | 134 species |
 
 # O'Brien Collection(ASUCOB)
 
