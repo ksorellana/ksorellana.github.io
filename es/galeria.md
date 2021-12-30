@@ -5,7 +5,7 @@
 # Trabajo de campo y viajes
 
 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SanLorenzo2017.jpg?raw=true" alt="San Lorenzo" width="640" height="427"> |
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SanLorenzo2017.jpg?raw=true" alt="San Lorenzo" width="640" height="427"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/19_G%C3%B3ndola.jpg?raw=true" width="360" height="640">|
 |:--:| 
 | *San Lorenzo, Colón, Panamá* |
 
