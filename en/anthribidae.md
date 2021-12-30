@@ -12,15 +12,15 @@ Me he dedicado al estudio de la diversidad de **Anthribidae** (Coleoptera: Curcu
 |*Gymnognathus claudia* Jordan, de Panamá|
 
 
-La idea principal de mi tesis fue realizar una revisión del género _Gymnognathus_ Schoenherr de Panamá, pero al darme cuenta de la falta de recursos para identificar este grupo, decidí que también era necesario hacer un catálogo actualizado y una clave taxonómica para identificar los géneros registrados en ese país. Luego de revisar los ejemplares en Panamá, completé los registros estudiando los especímenes panameños en las colecciones de Arizona State University (ASUCOB, ASUHIC) y del Smithsonian National Museum of Natural History (NMNH), donde ahora se encuentran los ejemplares de B.D Valentine, quien fue especialista del grupo. El catálogo de los Anthribidae de Panamá fue publicado a prinicipios de 2021, en la revista _Zootaxa_.   
+The main idea of my thesis was to make a review of the genus _Gymnognathus_ Schoenherr of Panama, but the resources to identify the genera and species were so rare, that I decided to focus on building an updated catalogue of the species in the country, and a taxonomic key to genus level. After identifying the specimenes in Panama, I completed the catalogue with the Panamanian specimens in the collections at Arizona State University (ASUCOB, ASUHIC) and the Smithsonian National Museum of Natural History (NMNH), where the specimens of B.D Valentine are now housed. The catalogue of the [Anthribidae of Panama](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera) was published earlier in 2021, in the journal _Zootaxa_ (if you don't have access, please go to the link and request a copy, I'll be happy to provide it).   
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Zootaxa.jpg?raw=true" height=600> | 
 |:--:| 
-| *Portada del Catálogo de Anthribidae de Panamá.* |
+| *Front page of the Catalogue of the Anthribidae of Panama.* |
 
-# Anthribidae de Panamá
+# Anthribidae of Panama
 
-| Subfamilia | Tribu | Género | # de especies |
+| Subfamily | Tribe | Genera | # of species |
 |-------|--------|---------|---------|
 | **Anthribinae** | Basitropini | *Eugonodes* Jordan | 1 |
 |  |  | *Eugonus* Schoenherr | 4 |
@@ -54,8 +54,8 @@ La idea principal de mi tesis fue realizar una revisión del género _Gymnognath
 |  |  | *Holostilpna* Jordan  | 2 |
 |Total| 14 tribus | 30 géneros | 134 especies |
 
-# Colección O'Brien (ASUCOB)
+# O'Brien Collection(ASUCOB)
 
-Una de mis metas durante mi tiempo en ASU, es digitalizar la mayor cantidad de Anthrbidae de la colección O'Brien. Hasta el momento (diciembre 2021) llevo un total de [2000 especímenes](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxa=Anthribidae&usethes=1&taxontype=2) digitalizados. También me he dedicado a tomar fotografías de los grupos y especies más representativos, y espero agregar al menos una imagen de cada especie en los siguientes años.
+One of my goals during my time at ASU, is to digitize as many Anthrbidae of the O'Brien collection as possible. So far (December 2021) I have digitized [2000  specimens](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxa=Anthribidae&usethes=1&taxontype=2). I have also been imaging representative groups and species, and I hope to add at least one image of each available species in the following years.
 
 <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015302_lateral_edited_1617656844.jpg" alt="Eucorynus" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015336_lateral_edited_1611088870.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015263_lateral_edited_1612974176.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015371_lateral_edited_1618628751.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014482_lateral_edited_1627430202.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015372_lateral_edited_1618417558.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015427_lateral_edited_1612548382.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015292_lateral_edited_1609357262.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015327_lateral_edited_1619129450.jpg" alt="Mycteis" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014210_lateral_edited_1629252381.jpg" alt="Discotenes claudia Jordan" width="320" height="213.4">
