@@ -9,7 +9,7 @@
 |:--:| 
 | *San Lorenzo, Colón, Panamá* |
 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BCISOrellana2016.jpg?raw=true" width="400" height="440"> |
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BCISOrellana2016.jpg?raw=true" width="380" height="440"> |
 |:--:| 
 | *Isla Barro Colorado, Panamá* |
 
