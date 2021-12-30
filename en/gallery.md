@@ -4,7 +4,7 @@
 
 # Fieldwork and trips
 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SanLorenzo2017.jpg?raw=true" alt="San Lorenzo" width="800" height="533.75"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/19_G%C3%B3ndola.jpg?raw=true" width="360" height="640">|
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SanLorenzo2017.jpg?raw=true" alt="San Lorenzo"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/19_G%C3%B3ndola.jpg?raw=true" width="360" height="640">|
 |:--:| 
 | *San Lorenzo, Colón, Panama* |
 
