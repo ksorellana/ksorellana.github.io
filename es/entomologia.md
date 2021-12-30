@@ -33,7 +33,7 @@ Más adelante, por motivación del Dr. Héctor Barrios, mi asesor de la maestrí
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Colecci%C3%B3nMEUP2018.jpg?raw=true" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Colecci%C3%B3nMIUP2018.jpg?raw=true" width="320" height="213.4">  | 
 |:--:| 
-| *1.) Ejemplares de Anthribidae de la Colección MEUP, Universidad de Panamá. * |
+| *1.) Ejemplares de Anthribidae de la Colección MEUP y 2.) de la Colección MIUP, Universidad de Panamá.* |
 
 ## Costa Rica
 
