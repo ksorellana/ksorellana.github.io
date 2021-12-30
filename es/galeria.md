@@ -4,7 +4,9 @@
 
 # Trabajo de campo y viajes
 
-![San Lorenzo, Panama.](https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SanLorenzo2017.jpg?raw=true)
+|![San Lorenzo, Panama.](https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SanLorenzo2017.jpg?raw=true)|
+|:--:| 
+| *San Lorenzo, Colón, Panamá* |
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SanLorenzo2017.jpg?raw=true" alt="San Lorenzo" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Staphylinidae.jpg?raw=true" alt="Gyrophaenina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Cookeinaspeciosa2011.jpg?raw=true" alt="Cookeina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Palpos2.jpg?raw=true" height="213.4">  | 
 |:--:| 
