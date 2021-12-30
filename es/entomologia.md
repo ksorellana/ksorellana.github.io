@@ -4,15 +4,11 @@
 
 # Investigaciones en entomología
 
-
-| <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_lateral-_edited_1598589951.jpg" alt="Conoderinae" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_dorsal-edited_1598589997.jpg" alt="Conoderinae" width="320" height="213.4"> | 
-|:--:| 
-| *Ejemplar de Lechriops Schoenherr (Curculionidae: Conederinae), colectado en el jardín de mi casa. Identificado como una posible nueva especie por el Dr. Salvatore Anzaldo* |
-
+Mis intereses de investigación se orientan a la **diversidad de insectos Neotropicales**, en especial del orden Coleoptera. A lo largo de mi carrera he tenido la oportunidad de trabajar con distintos grupos, pero actualmente estoy enfocada en la taxonomía y sistemática de la familia **Anthribidae** (Coleoptera: Curculionoidea). 
 
 ## Guatemala
 
-El estudio de la biodiversidad de Guatemala es uno de mis intereses principales, en especial la diversidad de insectos. A lo largo mi carrera, he colaborado activamente con las principales [colecciones entomológicas](http://insectosdeguatemala.org/colecciones/) del país, donde están depositados muchos de los especímenes que colecté y preparé durante varios proyectos de investigación. Uno de los proyectos más relevantes, fue mi [tesis de licenciatura](http://www.repositorio.usac.edu.gt/2036/1/06_3652.pdf), que se enfocó en la diversidad de coleópteros fungívoros del Parque Nacional Laguna Lachuá, al norte de Guatemala. Durante esta investigación tuve la oportunidad de trabajar con la preparación e identificación de ejemplares de varias familias asociadas a hongos, principalmente Staphylinidae, Erotylidae, Ptiliidae y Nitidulidae. Un [poster](https://www.researchgate.net/publication/322702818_Coleopteros_asociados_a_Marasmiaceae_y_Polyporaceae_en_la_selva_lluviosa_de_Lachua_Guatemala) fue presentado con los hallazgos, durante el VIII Congreso Latinoamericano de Micología, en Colombia. Mi trabajo final obtuvo un reconocimiento como la mejor tesis de Biología de 2014 en la Universidad de San Carlos de Guatemala, y fue [publicado](https://zenodo.org/record/3968462#.YcyzklllCUl) el año siguiente, junto con mi asesora, la Dra. Maura Quezada, especialista en macrohongos. 
+El estudio de la biodiversidad de Guatemala es uno de mis intereses principales. A lo largo mi carrera, he colaborado activamente con las principales [colecciones entomológicas](http://insectosdeguatemala.org/colecciones/) del país, donde están depositados muchos de los especímenes que colecté y preparé durante varios proyectos de investigación. Uno de los proyectos más relevantes, fue mi [tesis de licenciatura](http://www.repositorio.usac.edu.gt/2036/1/06_3652.pdf), que se enfocó en la diversidad de coleópteros fungívoros del Parque Nacional Laguna Lachuá, al norte de Guatemala. Durante esta investigación tuve la oportunidad de trabajar con la preparación e identificación de ejemplares de varias familias asociadas a hongos, principalmente Staphylinidae, Ptiliidae, Erotylidae y Nitidulidae. Un [poster](https://www.researchgate.net/publication/322702818_Coleopteros_asociados_a_Marasmiaceae_y_Polyporaceae_en_la_selva_lluviosa_de_Lachua_Guatemala) fue presentado con los hallazgos, durante el VIII Congreso Latinoamericano de Micología, en Colombia. Mi trabajo final obtuvo un reconocimiento como la mejor tesis de Biología de 2014 en la Universidad de San Carlos de Guatemala, y fue [publicado](https://zenodo.org/record/3968462#.YcyzklllCUl) el año siguiente, junto con mi asesora, la Dra. Maura Quezada, especialista en macrohongos. 
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SE.jpg?raw=true" alt="Parque Lachuá" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/F026.jpg?raw=true" alt="Gyrophaenina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Cookeina.jpg?raw=true" alt="Cookeina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Palpos2.jpg?raw=true" height="213.4">  | 
 |:--:| 
@@ -27,7 +23,9 @@ Al terminar mi estudios de Biología, continué con las investigaciones entomol�
 
 ## Panamá
 
-De 2016 a 2018, tuve la oportunidad de estudiar una Maestría en Entomología en Panamá, donde inicié con el estudio de la familia Anthribidae. Durante mi tiempo en ese país, también continúé con la colecta de coleópteros fungívoros y publiqué un pequeño [estudio](https://zenodo.org/record/3968793#.Ycy1JlllCUk) con especímenes del Parque Natural Metropolitano, en Ciudad de Panamá. Está de más resaltar que la diversidad de coleópteros es impresionante en esa región.
+De 2016 a 2018, tuve la oportunidad de estudiar una Maestría en Entomología en Panamá. Durante mi tiempo en ese país, también continúé con la colecta de coleópteros fungívoros y publiqué un pequeño [estudio](https://zenodo.org/record/3968793#.Ycy1JlllCUk) con especímenes del Parque Natural Metropolitano, en Ciudad de Panamá. Está de más resaltar que la diversidad de coleópteros y hongos es impresionante en esa localidad. Con tan sólo tres recorridos de dos horas, pude colectar casi 3,500 especímenes de doce familias distintas, incluyendo Staphylinidae, Ciidae, Erotylidae y Nitidulidae.
+
+Más adelante, por motivación del Dr. Héctor Barrios, mi asesor de la maestría, me enfoqué en un grupo que estaba entre los coleópteros fungívoros que colecté, pero que se encontraba en abundancia (y sin identificación alguna) en su colección de Curculionoidea: la familia Anthribidae. 
 
 ## Costa Rica
 
@@ -36,6 +34,10 @@ De 2016 a 2018, t
 ## Estados Unidos
 
 De 2016 a 2018, t
+
+| <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_lateral-_edited_1598589951.jpg" alt="Conoderinae" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_dorsal-edited_1598589997.jpg" alt="Conoderinae" width="320" height="213.4"> | 
+|:--:| 
+| *Ejemplar de Lechriops Schoenherr (Curculionidae: Conederinae), colectado en el jardín de mi casa. Identificado como una posible nueva especie por el Dr. Salvatore Anzaldo* |
 
 ## Enlaces relevantes
 
