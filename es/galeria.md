@@ -9,7 +9,7 @@
 | *Guanacaste, Costa Rica* |
 
 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Puntarenas.jpg?raw=true" alt="Puntarenas" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SanVito.jpg?raw=true" alt="San Vito" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ErotylidaeSanVito.jpg?raw=true" alt="Erotylidae" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Jard%C3%ADnBot%C3%A1nico.jpg?raw=true" alt="Jardín Botánico"  width="340" height="213.4">  | 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Puntarenas.jpg?raw=true" alt="Puntarenas" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SanVito.jpg?raw=true" alt="San Vito" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ErotylidaeSanVito.jpg?raw=true" alt="Erotylidae" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Jard%C3%ADnBot%C3%A1nico.jpg?raw=true" alt="Jardín Botánico"  width="320" height="213.4">  | 
 |:--:| 
 | *Puntarenas, Costa Rica* |
 
