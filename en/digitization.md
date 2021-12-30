@@ -1,6 +1,6 @@
 **[Ir a versión en español](https://ksorellana.github.io/es/inicio)**
 
-| [Home](https://ksorellana.github.io) | [Anthribidae](https://ksorellana.github.io/en/anthribidae) | [Digitization](https://ksorellana.github.io/en/digitization) | [Entomology](https://ksorellana.github.io/en/entomology) | [Gallery](https://ksorellana.github.io/en/gallery)   
+| [Home](https://ksorellana.github.io) | [Entomology](https://ksorellana.github.io/en/entomology) | [Anthribidae](https://ksorellana.github.io/en/anthribidae) | [Digitization](https://ksorellana.github.io/en/digitization) |  [Gallery](https://ksorellana.github.io/en/gallery) |
 
 # Collection digitization using Symbiota
 
