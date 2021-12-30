@@ -6,9 +6,9 @@
 
 Mis intereses de investigación se orientan a la **diversidad de insectos Neotropicales**, en especial del orden Coleoptera. A lo largo de mi carrera he tenido la oportunidad de trabajar con distintos grupos, pero actualmente estoy enfocada en la taxonomía y sistemática de la familia **Anthribidae** (Coleoptera: Curculionoidea). Mi investigación se desarrolla principalmente en colecciones entomológicas, pero también he participado en un amplio número de expediciones de colecta, especialmente en Guatemala. 
 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Chrysomelidae.jpg?raw=true" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Criocerinae.jpg?raw=true" width="320" height="213.4">  | 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Colecci%C3%B3nUSAC.jpg?raw=true" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Criocerinae.jpg?raw=true" width="320" height="213.4">  | 
 |:--:| 
-| *1.) Ejemplares de Anthribidae de la Colección MEUP y 2.) de la Colección MIUP, Universidad de Panamá.* |
+| *1.) Colección Entomológica USAC. 2.) Ejemplares de la Colección UVG. Ambas en Guatemala .* |
 
 ## Guatemala
 
