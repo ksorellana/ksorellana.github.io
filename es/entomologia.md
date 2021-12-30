@@ -12,7 +12,7 @@ El estudio de la biodiversidad de Guatemala es uno de mis intereses principales.
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SE.jpg?raw=true" alt="Parque Lachuá" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/F026.jpg?raw=true" alt="Gyrophaenina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Cookeina.jpg?raw=true" alt="Cookeina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Palpos2.jpg?raw=true" height="213.4">  | 
 |:--:| 
-| *De izq. a der. 1.) Parque Nacional Laguna Lachuá. 2.) Ejemplar de Gyrophaenina sp. (Staphylinidae: Aleocharinae: Homalotini). 3.) Hongo Cookeina speciosa (Fr). 4.) Maxila de Gyrophaenina.* |
+| *1.) Parque Nacional Laguna Lachuá. 2.) Ejemplar de Gyrophaenina sp. (Staphylinidae: Aleocharinae: Homalotini). 3.) Hongo Cookeina speciosa (Fr). 4.) Maxila de Gyrophaenina.* |
 
 Al terminar mi estudios de Biología, continué con las investigaciones entomológicas en el sector privado, y seguí vinculada a las colecciones nacionales para depositar vouchers provenientes de los monitoreos. En 2015 edité, junto al Dr. Jiichiro Yoshimoto y al Dr. Enio Cano (†), el libro de Insectos de Guatemala, el cual se ha convertido en una importante herramienta para los estudiantes de entomología en el país. En 2018 se publicó la segunda edición, con la inclusión de algunos grupos adicionales.
 
@@ -24,6 +24,10 @@ Al terminar mi estudios de Biología, continué con las investigaciones entomol�
 ## Panamá
 
 De 2016 a 2018, tuve la oportunidad de estudiar una Maestría en Entomología en Panamá. Durante mi tiempo en ese país, también continúé con la colecta de coleópteros fungívoros y publiqué un pequeño [estudio](https://zenodo.org/record/3968793#.Ycy1JlllCUk) con especímenes del Parque Natural Metropolitano, en Ciudad de Panamá. Está de más resaltar que la diversidad de coleópteros y hongos es impresionante en esa localidad. Con tan sólo tres recorridos de dos horas, pude colectar casi 3,500 especímenes de doce familias distintas, incluyendo Staphylinidae, Ciidae, Erotylidae y Nitidulidae.
+
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SE.jpg?raw=true" alt="Parque Lachuá" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/F026.jpg?raw=true" alt="Gyrophaenina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Cookeina.jpg?raw=true" alt="Cookeina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Palpos2.jpg?raw=true" height="213.4">  | 
+|:--:| 
+| *Parque Nacional Laguna Lachuá. 2.) Ejemplar de Gyrophaenina sp. (Staphylinidae: Aleocharinae: Homalotini). 3.) Hongo Cookeina speciosa (Fr). 4.) Maxila de Gyrophaenina.* |
 
 Más adelante, por motivación del Dr. Héctor Barrios, mi asesor de la maestría, me enfoqué en un grupo que estaba entre los coleópteros fungívoros que colecté, pero que se encontraba en abundancia (y sin identificación alguna) en su colección de Curculionoidea: la familia Anthribidae. 
 
