@@ -4,7 +4,7 @@
 
 # Investigaciones en entomología
 
-Mis intereses de investigación se orientan a la **diversidad de insectos Neotropicales**, en especial del orden Coleoptera. A lo largo de mi carrera he tenido la oportunidad de trabajar con distintos grupos, pero actualmente estoy enfocada en la taxonomía y sistemática de la familia **Anthribidae** (Coleoptera: Curculionoidea). Mi investigación se desarrolla principalmente en colecciones entomológicas, pero también he participado en un amplio número de expediciones de colecta, iniciando con mi participación como estudiante en la expedición de Guatemala del proyecto LLAMA, dirigido por el Dr. Jack Longino, en ese entonces de la Evergreen State College y el Dr. Robert Anderson, del Canadian Museum of Natural History.
+Mis intereses de investigación se orientan a la **diversidad de insectos Neotropicales**, en especial del orden Coleoptera. A lo largo de mi carrera he tenido la oportunidad de trabajar con distintos grupos, pero actualmente estoy enfocada en la taxonomía y sistemática de la familia **Anthribidae** (Coleoptera: Curculionoidea). Mi investigación se desarrolla principalmente en colecciones entomológicas, pero también he participado en un amplio número de expediciones de colecta, iniciando en 2009 con mi participación como estudiante en la expedición de Guatemala del proyecto LLAMA, dirigido por el Dr. Jack Longino, en ese entonces de Evergreen State College y el Dr. Robert Anderson, del Canadian Museum of Natural History.
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Criocerinae.jpg?raw=true">  | 
 |:--:| 
