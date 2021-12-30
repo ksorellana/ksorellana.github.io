@@ -59,7 +59,7 @@ En ASU también aprendí a digitalizar especímenes entomológicos en [ecdysis](
  
 | <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_lateral-_edited_1598589951.jpg" alt="Conoderinae" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_dorsal-edited_1598589997.jpg" alt="Conoderinae" width="320" height="213.4"> | 
 |:--:| 
-| *Ejemplar de Lechriops Schoenherr (Curculionidae: Conederinae), colectado en el jardín de mi casa. Identificado como una posible nueva especie por el Dr. Salvatore Anzaldo* |
+| *Ejemplar de Lechriops Schoenherr (Curculionidae: Conederinae), colectado en el jardín de mi casa (SOAC0000001). Identificado como una posible nueva especie por el Dr. Salvatore Anzaldo* |
 
 ## Enlaces relevantes
 
