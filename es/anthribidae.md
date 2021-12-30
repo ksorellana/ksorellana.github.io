@@ -8,7 +8,7 @@ Me he dedicado al estudio de la diversidad de **Anthribidae** desde 2016, cuando
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Zootaxa.jpg?raw=true" height=600> | 
 |:--:| 
-| *1.) Portada del Catálogo de Anthribidae de Panamá.* |
+| *Portada del Catálogo de Anthribidae de Panamá.* |
 
 ![Gymnognathus claudia Jordan](https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg)
 
