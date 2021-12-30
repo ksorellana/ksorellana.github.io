@@ -9,7 +9,7 @@
 |:--:| 
 | *San Lorenzo, Colón, Panamá* |
 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SanLorenzo2017.jpg?raw=true" width="640" height="427"> |
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/19_G%C3%B3ndola.jpg?raw=true" width="640" height="427"> |
 |:--:| 
 | *San Lorenzo, Colón, Panamá* |
 
