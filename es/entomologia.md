@@ -4,11 +4,11 @@
 
 # Investigaciones en entomología
 
-Mis intereses de investigación se orientan a la **diversidad de insectos Neotropicales**, en especial del orden Coleoptera. A lo largo de mi carrera he tenido la oportunidad de trabajar con distintos grupos, pero actualmente estoy enfocada en la taxonomía y sistemática de la familia **Anthribidae** (Coleoptera: Curculionoidea). Mi investigación se desarrolla principalmente en colecciones entomológicas, pero también he participado en un amplio número de expediciones de colecta, especialmente en Guatemala. 
+Mis intereses de investigación se orientan a la **diversidad de insectos Neotropicales**, en especial del orden Coleoptera. A lo largo de mi carrera he tenido la oportunidad de trabajar con distintos grupos, pero actualmente estoy enfocada en la taxonomía y sistemática de la familia **Anthribidae** (Coleoptera: Curculionoidea). Mi investigación se desarrolla principalmente en colecciones entomológicas, pero también he participado en un amplio número de expediciones de colecta, iniciando con mi participación como estudiante en la expedición de Guatemala del proyecto LLAMA, dirigido por el Dr. Jack Longino, en ese entonces de la Evergreen State College y el Dr. Robert Anderson, del Canadian Museum of Natural History.
 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Colecci%C3%B3nUSAC.jpg?raw=true" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Criocerinae.jpg?raw=true" width="320" height="213.4">  | 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Criocerinae.jpg?raw=true">  | 
 |:--:| 
-| *1.) Colección Entomológica USAC. 2.) Ejemplares de la Colección UVG. Ambas en Guatemala .* |
+| Ejemplares de la Colección UVG en Guatemala.|
 
 ## Guatemala
 
@@ -27,7 +27,7 @@ Al terminar mi estudios de Biología, continué con las investigaciones entomol�
 
 ## Panamá
 
-De 2016 a 2018, tuve la oportunidad de estudiar una Maestría en Entomología en Panamá, financiada por [DAAD](https://www.daad-costa-rica.org/es/encontrar-becas/becas-en-costa-rica-y-region/programa-regional/). Durante mi tiempo en ese país, también continúé con la colecta de coleópteros fungívoros y publiqué un pequeño [estudio](https://zenodo.org/record/3968793#.Ycy1JlllCUk) con especímenes del Parque Natural Metropolitano, en Ciudad de Panamá. Está de más resaltar que la diversidad de coleópteros y hongos es impresionante en esa localidad. Con tan sólo tres recorridos de dos horas, pude colectar casi 3,500 especímenes de doce familias distintas, incluyendo Staphylinidae, Ciidae, Erotylidae y Nitidulidae.
+De 2016 a 2018, tuve la oportunidad de estudiar una Maestría en Entomología en Panamá, financiada por [DAAD](https://www.daad-costa-rica.org/es/encontrar-becas/becas-en-costa-rica-y-region/programa-regional/). Durante mi tiempo en ese país, también continué con la colecta de coleópteros fungívoros y publiqué un pequeño [estudio](https://zenodo.org/record/3968793#.Ycy1JlllCUk) con especímenes del Parque Natural Metropolitano, en Ciudad de Panamá. Está de más resaltar que la diversidad de coleópteros y hongos es impresionante en esa localidad. Con tan sólo tres recorridos de dos horas, pude colectar casi 3,500 especímenes de doce familias distintas, incluyendo Staphylinidae, Ciidae, Erotylidae y Nitidulidae.
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/PolyporalesPNM2017.jpg?raw=true" alt="Hongo Polyporal" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SenderoPNM2016.jpg?raw=true" alt="Parque Metropolitano" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/MuestraFung%C3%ADvoros.jpg?raw=true" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ScaphidiinaeSL2017.jpg?raw=true" height="213.4">  | 
 |:--:| 
@@ -41,7 +41,7 @@ Más adelante, por motivación del Dr. Héctor Barrios, mi asesor de la maestrí
 
 ## Costa Rica
 
-En 2018, luego de finalizar la maestría, continúe reuniendo información de Anthribidae de otros países de Centro América y visité las colecciones entomológicas de la Universidad de Costa Rica. También pude visitar algunos bosques de la región norte y sur del país.
+En 2018, luego de finalizar la maestría, continué reuniendo información de Anthribidae de otros países de Centro América y visité las colecciones entomológicas de la Universidad de Costa Rica. También pude visitar algunos bosques de la región norte y sur del país.
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Colecci%C3%B3nUCR.jpg?raw=true" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LasCruces.jpg?raw=true" width="320" height="213.4">  | 
 |:--:| 
@@ -59,7 +59,7 @@ En ASU también aprendí a digitalizar especímenes entomológicos en [ecdysis](
  
 | <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_lateral-_edited_1598589951.jpg" alt="Conoderinae" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_dorsal-edited_1598589997.jpg" alt="Conoderinae" width="320" height="213.4"> | 
 |:--:| 
-| *Ejemplar de Lechriops Schoenherr (Curculionidae: Conederinae), colectado en el jardín de mi casa (SOAC0000001). Identificado como una posible nueva especie por el Dr. Salvatore Anzaldo* |
+| Ejemplar de *Lechriops* Schoenherr (Curculionidae: Conederinae), colectado en el jardín de mi casa (SOAC0000001). Identificado como una posible nueva especie por el Dr. Salvatore Anzaldo* |
 
 ## Enlaces relevantes
 
