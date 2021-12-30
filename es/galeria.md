@@ -4,6 +4,10 @@
 
 # Trabajo de campo y viajes
 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/GreeneWash1.jpg?raw=true" alt="Greenewash Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/GreeneWash2.jpg?raw=true" alt="Greenewash Flowers"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/GreeneWash3.jpg?raw=true" alt="Greenewash Mountains"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/GreeneWash4.jpg?raw=true" alt="Greenewash Tenebrionidae">  | 
+|:--:| 
+| *Greenewash, Arizona, EEUU* |
+
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Volc%C3%A1nOros%C3%AD.jpg?raw=true" alt="Orosí"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Liberia.jpg?raw=true" alt="Liberia">  | 
 |:--:| 
 | *Guanacaste, Costa Rica* |
