@@ -18,7 +18,7 @@ Al terminar mi estudios de Biología, continué con las investigaciones entomol�
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Afichejpg.jpg?raw=true" width="321.6" height="479.1"> | 
 |:--:| 
-| *Afiche y portada de la primera edición del libro "Insectos de Guatemala"* |
+| *Afiche de la primera edición del libro "Insectos de Guatemala"* |
 
 
 ## Panamá
