@@ -4,6 +4,10 @@
 
 # Trabajo de campo y viajes
 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro2.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro3.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro5.jpg?raw=true" alt="Mantis">  | 
+|:--:| 
+| *Galiuro Mountains, Arizona, EEUU* |
+
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/GreeneWash1.jpg?raw=true" alt="Greenewash Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/GreeneWash2.jpg?raw=true" alt="Greenewash Flowers"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/GreeneWash3.jpg?raw=true" alt="Greenewash Mountains"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/GreeneWash4.jpg?raw=true" alt="Greenewash Tenebrionidae">  | 
 |:--:| 
 | *Greenewash, Arizona, EEUU* |
