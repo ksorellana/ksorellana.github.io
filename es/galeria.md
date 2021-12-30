@@ -32,9 +32,9 @@ Aquí comparto algunas imágenes de los sitios en los que he colectado o sólo v
 
 | *San Lorenzo, Colón, Panamá* |
 |:--:| 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SanLorenzo2017.jpg?raw=true" alt="San Lorenzo"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/19_G%C3%B3ndola.jpg?raw=true" width="360" height="640">|
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/SanLorenzo2017.jpg?raw=true" alt="San Lorenzo"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/19_G%C3%B3ndola.jpg?raw=true" width="360" height="640">|
 
 
 | *Isla Barro Colorado, Panamá* |
 |:--:| 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BIC2016Muelle.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BICAra%C3%B1a.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ErotylidaeBCI2016.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BIC2016Capuchinos.jpg?raw=true">| | 
+| <img src="hhttps://github.com/ksorellana/ksorellana.github.io/blob/main/images/BIC2016Muelle.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/BICAra%C3%B1a.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/ErotylidaeBCI2016.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/BIC2016Capuchinos.jpg?raw=true">| | 
