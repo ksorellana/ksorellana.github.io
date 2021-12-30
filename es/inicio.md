@@ -16,7 +16,7 @@ Además, como parte del [Symbiota Support Hub de iDigBio](https://www.idigbio.or
 ## Proyectos actuales
 - [Anthribidae](https://ksorellana.github.io/es/anthribidae)
 - [Samanta Orellana Collection](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=20)
-- [Guatemala Portal](https://biodiversidad.gt/portal/)
+- [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/)
 - [Insectos de Guatemala](http://insectosdeguatemala.org/)
 
 ## Sitios web y redes sociales
