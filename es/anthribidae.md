@@ -4,7 +4,7 @@
 
 # Familia Anthribidae
 
-<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt= Gymnognathus height=600>
+<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt= Gymnognathus height=400>
 
 Me he dedicado al estudio de la diversidad de **Anthribidae** (Coleoptera: Curculionoidea) desde 2016, cuando seleccioné esta familia para realizar mi tesis de maestría en Panamá. El primer año de trabajo consistió de muchas horas estudiando la poca literatura disponible, para poder reconocer las subfamilias, tribus, géneros y especies que estaban disponibles en las colecciones panameñas. La idea principal de mi tesis fue realizar una revisión del género _Gymnognathus_ Schoenherr de Panamá, pero al darme cuenta de la falta de recursos para identificar este grupo, decidí que también era necesario hacer un catálogo actualizado y una clave taxonómica para identificar los géneros registrados en ese país. Luego de revisar los ejemplares en Panamá, completé los registros estudiando los especímenes panameños en las colecciones de Arizona State University (ASUCOB, ASUHIC) y del Smithsonian National Museum of Natural History (NMNH), donde ahora se encuentran los ejemplares de B.D Valentine, quien fue especialista del grupo. El catálogo de los Anthribidae de Panamá fue publicado a prinicipios de 2021, en la revista _Zootaxa_.   
 
