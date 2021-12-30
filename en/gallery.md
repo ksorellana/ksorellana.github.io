@@ -8,33 +8,33 @@ Aquí comparto algunas imágenes de los sitios en los que he colectado o sólo v
 
 | *Apache Box, Arizona, USA* |
 |:--:| 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ApacheBox1.jpg?raw=true" alt="Apache Box Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ApacheBox3.jpg?raw=true" alt="Apache Box Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ApacheBox4.jpg?raw=true" alt="Apache Box Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ApacheBox6.jpg?raw=true" alt="Apache Box Landscape">  | 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/ApacheBox1.jpg?raw=true" alt="Apache Box Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/ApacheBox3.jpg?raw=true" alt="Apache Box Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/ApacheBox4.jpg?raw=true" alt="Apache Box Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/ApacheBox6.jpg?raw=true" alt="Apache Box Landscape">  | 
 
 | *Galiuro Mountains, Arizona, USA* |
 |:--:| 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro2.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro3.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro5.jpg?raw=true" alt="Mantis">  | 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Galiuro2.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Galiuro3.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Galiuro.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Galiuro5.jpg?raw=true" alt="Mantis">  | 
 
 
 | *Greenewash, Arizona, USA* |
 |:--:|
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/GreeneWash1.jpg?raw=true" alt="Greenewash Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/GreeneWash2.jpg?raw=true" alt="Greenewash Flowers"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/GreeneWash3.jpg?raw=true" alt="Greenewash Mountains"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/GreeneWash4.jpg?raw=true" alt="Greenewash Tenebrionidae">  | 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/GreeneWash1.jpg?raw=true" alt="Greenewash Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/GreeneWash2.jpg?raw=true" alt="Greenewash Flowers"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/GreeneWash3.jpg?raw=true" alt="Greenewash Mountains"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/GreeneWash4.jpg?raw=true" alt="Greenewash Tenebrionidae">  | 
 
 
 | *Guanacaste, Costa Rica* |
 |:--:| 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Volc%C3%A1nOros%C3%AD.jpg?raw=true" alt="Orosí"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Liberia.jpg?raw=true" alt="Liberia">  | 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Volc%C3%A1nOros%C3%AD.jpg?raw=true" alt="Orosí"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Liberia.jpg?raw=true" alt="Liberia">  | 
 
 
 | *Puntarenas, Costa Rica* |
 |:--:| 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Puntarenas.jpg?raw=true" alt="Puntarenas"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SanVito.jpg?raw=true" alt="San Vito"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ErotylidaeSanVito.jpg?raw=true" alt="Erotylidae"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Jard%C3%ADnBot%C3%A1nico.jpg?raw=true" alt="Jardín Botánico">  | 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Puntarenas.jpg?raw=true" alt="Puntarenas"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/SanVito.jpg?raw=true" alt="San Vito"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/ErotylidaeSanVito.jpg?raw=true" alt="Erotylidae"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Jard%C3%ADnBot%C3%A1nico.jpg?raw=true" alt="Jardín Botánico">  | 
 
 
 | *San Lorenzo, Colón, Panama* |
 |:--:| 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SanLorenzo2017.jpg?raw=true" alt="San Lorenzo"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/19_G%C3%B3ndola.jpg?raw=true" width="360" height="640">|
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/SanLorenzo2017.jpg?raw=true" alt="San Lorenzo"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/19_G%C3%B3ndola.jpg?raw=true" width="360" height="640">|
 
 
-| *Barro Colorado Island, Panama* |
+| *Isla Barro Colorado, Panama* |
 |:--:| 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BIC2016Muelle.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BICAra%C3%B1a.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ErotylidaeBCI2016.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BIC2016Capuchinos.jpg?raw=true">| | 
+| <img src="hhttps://github.com/ksorellana/ksorellana.github.io/blob/main/images/BIC2016Muelle.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/BICAra%C3%B1a.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/ErotylidaeBCI2016.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/BIC2016Capuchinos.jpg?raw=true">| | 
