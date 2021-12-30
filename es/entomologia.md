@@ -49,14 +49,14 @@ En 2018, luego de finalizar la maestría, continúe reuniendo información de An
 
 ## Estados Unidos
 
-Llegué a Arizona en 2019, donde continué con la construcción del catálogo de Anthribidae de Panamá. Aquí tuve acceso a la increíble colección O'Brien, con más de dos millones de especímenes de Curculionoidea y alrededor de 20,000 antríbidos. Más adelante pude visitar la colección del Museo Nacional de Historia Natural Smithsonian, y pude completar el catálogo para su publicación.  
+Llegué a Arizona en 2019, donde realizo actualmente mis estudios de doctorado. De 2019 a 2021 trabajé como asistente de investigación en las colecciones entomológicas, en el proyecto de Curculionoidea de Sonora. Además, continué con la construcción del catálogo de Anthribidae de Panamá, al tener acceso a la increíble colección O'Brien, con más de dos millones de especímenes de Curculionoidea y alrededor de 20,000 antríbidos. Más adelante pude visitar la colección del Museo Nacional de Historia Natural Smithsonian, y pude completar el catálogo para su publicación. (Ver más en la sección de [Anthribidae](https://ksorellana.github.io/es/anthribidae))  
 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Biokic.jpg?raw=true" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Molytinae.jpg?raw=true" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Colecci%C3%B3nOBrien.jpg?raw=true" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ColeccionObrien2.jpg?raw=true" width="320" height="213.4">   | 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Biokic.jpg?raw=true" width="320" height="640"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Molytinae.jpg?raw=true" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Colecci%C3%B3nOBrien.jpg?raw=true" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ColeccionObrien2.jpg?raw=true" width="320" height="213.4">   | 
 |:--:| 
-| *1.) Colección del Museo de Insectos de la UCR. 2.) Estación Biológica Las Cruces, Puntarenas.* |
+| *1.) Entrada al Biodiversity Knowledge Integration Center, ASU. 2.) Molytinae (Curculionidae) de Sonora. 3.) Colección O'Brien. 4.) Ejemplares de Anthribidae de la Colección O'Brien.* |
 
-
-
+En ASU también aprendí a digitalizar especímenes entomológicos en [ecdysis](https://serv.biokic.asu.edu/ecdysis/), uno de los portales [Symbiota](symbiota.org) desarrollados en esta institución. Además de digitalizar los especímenes de las colecciones ASU ([ASUCOB](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=2), [ASUHIC](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=1)), pude obtener un perfil para mi colección de investigación, que además se encuentra en [GBIF](https://www.gbif.org/dataset/d1302b60-c820-4f68-a1bd-8bb0c167c44c). (Ver más en la sección de [Digitalización](https://ksorellana.github.io/es/digitalizacion))  
+ 
 | <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_lateral-_edited_1598589951.jpg" alt="Conoderinae" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_dorsal-edited_1598589997.jpg" alt="Conoderinae" width="320" height="213.4"> | 
 |:--:| 
 | *Ejemplar de Lechriops Schoenherr (Curculionidae: Conederinae), colectado en el jardín de mi casa. Identificado como una posible nueva especie por el Dr. Salvatore Anzaldo* |
