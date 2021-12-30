@@ -1,6 +1,6 @@
 **[Ir a versión en español](https://ksorellana.github.io/es/inicio)**
 
-| [Home](https://ksorellana.github.io) | [Anthribidae](https://ksorellana.github.io/en/anthribidae) | [Digitization](https://ksorellana.github.io/en/digitization) | [Biodiversity of Guatemala](https://ksorellana.github.io/en/biodiversitygt) | [Gallery](https://ksorellana.github.io/en/gallery)   
+| [Home](https://ksorellana.github.io) | [Entomology](https://ksorellana.github.io/en/entomology) | [Anthribidae](https://ksorellana.github.io/en/anthribidae) | [Digitization](https://ksorellana.github.io/en/digitization) |  [Gallery](https://ksorellana.github.io/en/gallery) |
 
 
 # Family Anthribidae (Coleoptera: Curculionoidea)
