@@ -4,7 +4,11 @@
 
 # Investigaciones en entomología
 
-Mis intereses de investigación se orientan a la **diversidad de insectos Neotropicales**, en especial del orden Coleoptera. A lo largo de mi carrera he tenido la oportunidad de trabajar con distintos grupos, pero actualmente estoy enfocada en la taxonomía y sistemática de la familia **Anthribidae** (Coleoptera: Curculionoidea). 
+Mis intereses de investigación se orientan a la **diversidad de insectos Neotropicales**, en especial del orden Coleoptera. A lo largo de mi carrera he tenido la oportunidad de trabajar con distintos grupos, pero actualmente estoy enfocada en la taxonomía y sistemática de la familia **Anthribidae** (Coleoptera: Curculionoidea). Mi investigación se desarrolla principalmente en colecciones entomológicas, pero también he realizado un amplio número de expediciones de colecta, especialmente en Guatemala. 
+
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Chrysomelidae.jpg?raw=true" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Criocerinae.jpg?raw=true" width="320" height="213.4">  | 
+|:--:| 
+| *1.) Ejemplares de Anthribidae de la Colección MEUP y 2.) de la Colección MIUP, Universidad de Panamá.* |
 
 ## Guatemala
 
@@ -14,7 +18,7 @@ El estudio de la biodiversidad de Guatemala es uno de mis intereses principales.
 |:--:| 
 | *1.) Parque Nacional Laguna Lachuá. 2.) Ejemplar de Gyrophaenina sp. (Staphylinidae: Aleocharinae: Homalotini). 3.) Hongo Cookeina speciosa (Fr). 4.) Maxila de Gyrophaenina.* |
 
-Al terminar mi estudios de Biología, continué con las investigaciones entomológicas en el sector privado, y seguí vinculada a las colecciones nacionales para depositar vouchers provenientes de los monitoreos. En 2015 edité, junto al Dr. Jiichiro Yoshimoto y al Dr. Enio Cano (†), el libro de Insectos de Guatemala, el cual se ha convertido en una importante herramienta para los estudiantes de entomología en el país. En 2018 se publicó la segunda edición, con la inclusión de algunos grupos adicionales.
+Al terminar mi estudios de Biología, continué con las investigaciones entomológicas en el sector privado, y seguí vinculada a las colecciones nacionales para depositar vouchers provenientes de los monitoreos. En 2015 edité, junto al Dr. Jiichiro Yoshimoto y al Dr. Enio Cano (†), el libro de Insectos de Guatemala, el cual se ha convertido en una importante herramienta para los estudiantes de entomología en el país. En 2018 se publicó la segunda edición, con algunas actualizaciones
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Afichejpg.jpg?raw=true" width="321.6" height="479.1"> | 
 |:--:| 
