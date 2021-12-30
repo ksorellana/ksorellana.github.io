@@ -11,8 +11,8 @@
 | Subfamilia | Tribu | Género | # de especies |
 |-------|--------|---------|---------|
 | Anthribinae | Basitropini | *Eugonodes* Jordan | 1 |
-| Anthribinae | Basitropini | *Eugonus* Schoenherr | 4 |
-| Anthribinae | Basitropini | *Phaenithon* Schoenherr | 16 |
+| Anthribinae |  | *Eugonus* Schoenherr | 4 |
+| Anthribinae |  | *Phaenithon* Schoenherr | 16 |
 | Anthribinae | Corrhecerini | *Corrhecerus* Schoenherr | 1 |
 | Anthribinae | Corrhecerini | *Nemotrichus* Labram & Imhoff | 6 |
 | Anthribinae | Cratoparini | *Euparius* Schoenherr | 10 |
