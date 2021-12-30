@@ -63,6 +63,5 @@ En ASU también aprendí a digitalizar especímenes entomológicos en [ecdysis](
 
 ## Enlaces relevantes
 
-[<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="100" height="100">](https://biodiversidad.gt/portal/)
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Insectos.jpg?raw=true" alt="Logo" width="100" height="100">](http://insectosdeguatemala.org/)
 [<img src="https://serv.biokic.asu.edu/ecdysis/content/collicon/soac-soac.jpg" alt="Logo" width="100" height="100">](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=20)
