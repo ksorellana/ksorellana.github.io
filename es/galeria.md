@@ -4,11 +4,12 @@
 
 # Trabajo de campo y viajes
 
+Aquí comparto algunas imágenes de los sitios que he visitado en viajes de colecta.
+
 | *Apache Box, Arizona, EEUU* |
 |:--:| 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro2.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro3.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro5.jpg?raw=true" alt="Mantis">  | 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ApacheBox1.jpg?raw=true" alt="Apache Box Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ApacheBox3.jpg?raw=true" alt="Apache Box Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ApacheBox4.jpg?raw=true" alt="Apache Box Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ApacheBox6.jpg?raw=true" alt="Apache Box Landscape">  | 
 |:--:| 
-| *Apache Box, Arizona, EEUU* |
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro2.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro3.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro5.jpg?raw=true" alt="Mantis">  | 
 |:--:| 
