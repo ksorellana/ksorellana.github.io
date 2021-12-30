@@ -46,7 +46,7 @@
 
 Una de mis metas durante mi tiempo en ASU, es digitalizar la mayor cantidad de Anthrbidae de la colección O'Brien. Hasta el momento (diciembre 2021) llevo un total de [2000 especímenes](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxa=Anthribidae&usethes=1&taxontype=2) digitalizados. También me he dedicado a tomar fotografías de los grupos y especies más representativos, y espero agregar al menos una imagen de cada especie en los siguientes años.
 
-|<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015302_lateral_edited_1617656844.jpg" alt="Eucorynus" width="320" height="213.4">| | <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015336_lateral_edited_1611088870.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4">|<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015263_lateral_edited_1612974176.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> |
+| <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015302_lateral_edited_1617656844.jpg" alt="Eucorynus" width="320" height="213.4"> | <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015336_lateral_edited_1611088870.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> | <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015263_lateral_edited_1612974176.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> |
 |:--:| 
 |*Eucorynus*|
 
