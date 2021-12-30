@@ -10,7 +10,7 @@ Mis intereses de investigación se orientan a la **diversidad de insectos Neotro
 
 El estudio de la biodiversidad de Guatemala es uno de mis intereses principales. A lo largo mi carrera, he colaborado activamente con las principales [colecciones entomológicas](http://insectosdeguatemala.org/colecciones/) del país, donde están depositados muchos de los especímenes que colecté y preparé durante varios proyectos de investigación. Uno de los proyectos más relevantes, fue mi [tesis de licenciatura](http://www.repositorio.usac.edu.gt/2036/1/06_3652.pdf), que se enfocó en la diversidad de coleópteros fungívoros del Parque Nacional Laguna Lachuá, al norte de Guatemala. Durante esta investigación tuve la oportunidad de trabajar con la preparación e identificación de ejemplares de varias familias asociadas a hongos, principalmente Staphylinidae, Ptiliidae, Erotylidae y Nitidulidae. Un [poster](https://www.researchgate.net/publication/322702818_Coleopteros_asociados_a_Marasmiaceae_y_Polyporaceae_en_la_selva_lluviosa_de_Lachua_Guatemala) fue presentado con los hallazgos, durante el VIII Congreso Latinoamericano de Micología, en Colombia. Mi trabajo final obtuvo un reconocimiento como la mejor tesis de Biología de 2014 en la Universidad de San Carlos de Guatemala, y fue [publicado](https://zenodo.org/record/3968462#.YcyzklllCUl) el año siguiente, junto con mi asesora, la Dra. Maura Quezada, especialista en macrohongos. 
 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SE.jpg?raw=true" alt="Parque Lachuá" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/F026.jpg?raw=true" alt="Gyrophaenina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Cookeina.jpg?raw=true" alt="Cookeina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Palpos2.jpg?raw=true" height="213.4">  | 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SE.jpg?raw=true" alt="Parque Lachuá" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Staphylinidae.jpg?raw=true" alt="Gyrophaenina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Cookeinaspeciosa2011.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Palpos2.jpg?raw=true" height="213.4">  | 
 |:--:| 
 | *1.) Parque Nacional Laguna Lachuá. 2.) Ejemplar de Gyrophaenina sp. (Staphylinidae: Aleocharinae: Homalotini). 3.) Hongo Cookeina speciosa (Fr). 4.) Maxila de Gyrophaenina.* |
 
@@ -29,7 +29,11 @@ De 2016 a 2018, tuve la oportunidad de estudiar una Maestría en Entomología en
 |:--:| 
 | *1.) Hongo Polyporal. 2.) Parque Natural Metropolitano. 3.) Muestra de insectos colectados en hongos. 4.) Scaphidiinae (Staphylinidae) sobre hongo.* |
 
-Más adelante, por motivación del Dr. Héctor Barrios, mi asesor de la maestría, me enfoqué en un grupo que estaba entre los coleópteros fungívoros que colecté, pero que se encontraba en abundancia (y sin identificación alguna) en su colección de Curculionoidea: la familia Anthribidae. 
+Más adelante, por motivación del Dr. Héctor Barrios, mi asesor de la maestría, me enfoqué en un grupo que no estaba entre los coleópteros fungívoros que colecté, pero que se encontraba en abundancia (y sin identificación alguna) en su colección de Curculionoidea: la familia Anthribidae. 
+
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/PolyporalesPNM2017.jpg?raw=true" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SenderoPNM2016.jpg?raw=true" alt="Parque Metropolitano" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/MuestraFung%C3%ADvoros.jpg?raw=true" alt="Cookeina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ScaphidiinaeSL2017.jpg?raw=true" height="213.4">  | 
+|:--:| 
+| *1.) Hongo Polyporal. 2.) Parque Natural Metropolitano. 3.) Muestra de insectos colectados en hongos. 4.) Scaphidiinae (Staphylinidae) sobre hongo.* |
 
 ## Costa Rica
 
