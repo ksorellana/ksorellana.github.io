@@ -11,7 +11,7 @@
 
 
 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BIC2016.jpg?raw=true" width="340" height="440"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BCISOrellana2016.jpg?raw=true" width="340" height="440"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ErotylidaeBCI2016.jpg?raw=true" width="340" height="440">|
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BIC2016.jpg?raw=true" width="340" height="440"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BCISOrellana2016.jpg?raw=true" width="340" height="440"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ErotylidaeBCI2016.jpg?raw=true" width="680" height="440">|
 |:--:| 
 | *Isla Barro Colorado, Panamá* |
 
