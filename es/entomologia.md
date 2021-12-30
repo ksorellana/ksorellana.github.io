@@ -42,7 +42,5 @@ De 2016 a 2018, t
 ## Enlaces relevantes
 
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="100" height="100">](https://biodiversidad.gt/portal/)
-[<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Insectos.jpg?raw=true" alt="Logo" width="150" height="150">](http://insectosdeguatemala.org/)
+[<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Insectos.jpg?raw=true" alt="Logo" width="100" height="100">](http://insectosdeguatemala.org/)
 [<img src="https://serv.biokic.asu.edu/ecdysis/content/collicon/soac-soac.jpg" alt="Logo" width="100" height="100">](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=20)
-
-Aún hay muchos ejemplares sin identificar
