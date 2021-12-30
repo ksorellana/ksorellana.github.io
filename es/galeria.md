@@ -4,6 +4,12 @@
 
 # Trabajo de campo y viajes
 
+| *Apache Box, Arizona, EEUU* |
+|:--:| 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro2.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro3.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro5.jpg?raw=true" alt="Mantis">  | 
+|:--:| 
+| *Apache Box, Arizona, EEUU* |
+
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro2.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro3.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro.jpg?raw=true" alt="Galiuro Landscape"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Galiuro5.jpg?raw=true" alt="Mantis">  | 
 |:--:| 
 | *Galiuro Mountains, Arizona, EEUU* |
