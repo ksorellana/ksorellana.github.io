@@ -51,6 +51,12 @@ En 2018, luego de finalizar la maestría, continúe reuniendo información de An
 
 Llegué a Arizona en 2019, donde continué con la construcción del catálogo de Anthribidae de Panamá. Aquí tuve acceso a la increíble colección O'Brien, con más de dos millones de especímenes de Curculionoidea y alrededor de 20,000 antríbidos. Más adelante pude visitar la colección del Museo Nacional de Historia Natural Smithsonian, y pude completar el catálogo para su publicación.  
 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Biokic.jpg?raw=true" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Molytinae.jpg?raw=true" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Colecci%C3%B3nOBrien.jpg?raw=true" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ColeccionObrien2.jpg?raw=true" width="320" height="213.4">   | 
+|:--:| 
+| *1.) Colección del Museo de Insectos de la UCR. 2.) Estación Biológica Las Cruces, Puntarenas.* |
+
+
+
 | <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_lateral-_edited_1598589951.jpg" alt="Conoderinae" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/SOAC_SOAC/SOAC0000/SOAC0000001_dorsal-edited_1598589997.jpg" alt="Conoderinae" width="320" height="213.4"> | 
 |:--:| 
 | *Ejemplar de Lechriops Schoenherr (Curculionidae: Conederinae), colectado en el jardín de mi casa. Identificado como una posible nueva especie por el Dr. Salvatore Anzaldo* |
