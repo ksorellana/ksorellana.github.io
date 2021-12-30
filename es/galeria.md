@@ -16,7 +16,7 @@
 |:--:| 
 | *San Lorenzo, Colón, Panamá* |
 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BIC2016.jpg?raw=true" width="340" height="440"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BCISOrellana2016.jpg?raw=true" width="340" height="440"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ErotylidaeBCI2016.jpg?raw=true">|
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BIC2016.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BCISOrellana2016.jpg?raw=true" width="335" height="440"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ErotylidaeBCI2016.jpg?raw=true">|
 |:--:| 
 | *Isla Barro Colorado, Panamá* |
 
