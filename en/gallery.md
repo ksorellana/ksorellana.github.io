@@ -4,4 +4,12 @@
 
 # Fieldwork and trips
 
-![Gymnognathus claudia Jordan](https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg)
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SanLorenzo2017.jpg?raw=true" alt="San Lorenzo" width="800" height="533.75"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/19_G%C3%B3ndola.jpg?raw=true" width="360" height="640">|
+|:--:| 
+| *San Lorenzo, Colón, Panama* |
+
+
+
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BIC2016.jpg?raw=true" width="340" height="440"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/BCISOrellana2016.jpg?raw=true" width="340" height="440"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ErotylidaeBCI2016.jpg?raw=true" width="680" height="440">|
+|:--:| 
+| *Barro Colorado Island, Panama* |
