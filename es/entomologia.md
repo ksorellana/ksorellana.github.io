@@ -31,7 +31,7 @@ De 2016 a 2018, tuve la oportunidad de estudiar una Maestría en Entomología en
 
 Más adelante, por motivación del Dr. Héctor Barrios, mi asesor de la maestría, me enfoqué en un grupo que no estaba entre los coleópteros fungívoros que colecté, pero que se encontraba en abundancia (y sin identificación alguna) en su colección de Curculionoidea: la familia Anthribidae. 
 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Colecci%C3%B3nMEUP2018.jpg?raw=true" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SenderoPNM2016.jpg?raw=true" alt="Parque Metropolitano" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/MuestraFung%C3%ADvoros.jpg?raw=true" alt="Cookeina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ScaphidiinaeSL2017.jpg?raw=true" height="213.4">  | 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/PolyporalesPNM2017.jpg?raw=true" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/SenderoPNM2016.jpg?raw=true" alt="Parque Metropolitano" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/MuestraFung%C3%ADvoros.jpg?raw=true" alt="Cookeina" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ScaphidiinaeSL2017.jpg?raw=true" height="213.4">  | 
 |:--:| 
 | *1.) Hongo Polyporal. 2.) Parque Natural Metropolitano. 3.) Muestra de insectos colectados en hongos. 4.) Scaphidiinae (Staphylinidae) sobre hongo.* |
 
