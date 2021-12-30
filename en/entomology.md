@@ -19,14 +19,14 @@ The study of the biodiversity of Guatemala is one of my main interests. I have c
 |:--:| 
 | *1.) National Park Laguna Lachuá. 2.) Gyrophaenina sp. (Staphylinidae: Aleocharinae: Homalotini). 3.) Cookeina speciosa (Fr). 4.) Maxilla of Gyrophaenina.* |
 
-Al terminar mi estudios de Biología, continué con las investigaciones entomológicas en el sector privado, y seguí vinculada a las colecciones nacionales para depositar vouchers provenientes de los monitoreos. En 2015 edité, junto al Dr. Jiichiro Yoshimoto y al Dr. Enio Cano (†), el libro "Insectos de Guatemala, guía de identificación", el cual se ha convertido en una importante herramienta para los estudiantes de entomología en el país. En 2018 se publicó la segunda edición, con algunas actualizaciones, y en 2020 publiqué la página [Insectos de Guatemala](http://insectosdeguatemala.org/), para compartir información adicional acerca de los grupos de insectos y las colecciones entomológicas del país.
+After finishing my degree in Biology, I continued doing entomological research in the private sector, and kept collaborating with the entomological collections by depositing the vouchers of different projects. In 2015, I edited, along Dr. Jiichiro Yoshimoto and Dr. Enio Cano (†), the book "Insects of Guatemala" (in Spanish), which has turned in a relevant tool for the entomology students in the country. In 2018 the second edition was published, with some updates, and in 2020, I published the website ["Insects of Guatemala"](http://insectosdeguatemala.org/), to share additional information about the insect groups and the entomological collections in the country.
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Afichejpg.jpg?raw=true" width="321.6" height="479.1"> | 
 |:--:| 
-| *Afiche de la primera edición del libro "Insectos de Guatemala"* |
+| *Advertisement of the first edition of the book "Insects of Guatemala"* |
 
 
-## Panamá
+## Panama
 
 De 2016 a 2018, tuve la oportunidad de estudiar una Maestría en Entomología en Panamá, financiada por [DAAD](https://www.daad-costa-rica.org/es/encontrar-becas/becas-en-costa-rica-y-region/programa-regional/). Durante mi tiempo en ese país, también continúé con la colecta de coleópteros fungívoros y publiqué un pequeño [estudio](https://zenodo.org/record/3968793#.Ycy1JlllCUk) con especímenes del Parque Natural Metropolitano, en Ciudad de Panamá. Está de más resaltar que la diversidad de coleópteros y hongos es impresionante en esa localidad. Con tan sólo tres recorridos de dos horas, pude colectar casi 3,500 especímenes de doce familias distintas, incluyendo Staphylinidae, Ciidae, Erotylidae y Nitidulidae.
 
