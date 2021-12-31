@@ -11,7 +11,7 @@ Soy una bióloga y [entomóloga](https://ksorellana.github.io/entomologia) guate
 
 Además, como parte del [Symbiota Support Hub de iDigBio](https://www.idigbio.org/contact/Samanta_Orellana), estoy ayudando a expandir los esfuerzos de la digitalización de colecciones biológicas en Latinoamérica, usando [portales Symbiota](https://symbiota.org/). Lidero el [Portal Symbiota de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/), en el cual se están digitalizando las colecciones nacionales. 
 
-![Samanta Orellana](https://pbs.twimg.com/profile_images/1349619780060286976/Dlwts-bR_400x400.jpg).
+![Samanta Orellana](https://pbs.twimg.com/profile_images/1349619780060286976/Dlwts-bR_400x400.jpg)
 
 ## Proyectos actuales
 - [Anthribidae](https://ksorellana.github.io/es/anthribidae)
