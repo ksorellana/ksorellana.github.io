@@ -32,7 +32,7 @@ Aquí comparto algunas imágenes de los sitios en los que he colectado o sólo v
 
 | *San Lorenzo, Colón, Panamá* |
 |:--:| 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/SanLorenzo2017.jpg?raw=true" alt="San Lorenzo"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/SanLorenzo2.jpg?raw=true" width="360" height="640">  <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/SanLorenzo3.jpg?raw=true" height="640"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/19_G%C3%B3ndola.jpg?raw=true" width="360" height="640">|
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/SanLorenzo2017.jpg?raw=true" alt="San Lorenzo"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/SanLorenzo2.jpg?raw=true">  <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/SanLorenzo3.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/19_G%C3%B3ndola.jpg?raw=true">|
 
 
 | *Isla Barro Colorado, Panamá* |
