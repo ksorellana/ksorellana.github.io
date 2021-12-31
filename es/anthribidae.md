@@ -65,3 +65,9 @@ Una de mis metas durante mi tiempo en ASU, es digitalizar la mayor cantidad de A
 
 -**Orellana, K.S.** (2021) Diversity and Systematics of Central American Anthribidae (Curculionoidea). Weevil Workers Meeting.
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/WeevilMeeting.jpg?raw=true" alt="Anthribidae Weevil Meeting" width="380" height="210">](https://www.youtube.com/watch?v=7H84Io2lWyA&t=2s)
+
+# Divulgación
+
+[Featured Researcher](https://www.curculionoidea.org/featured-researchers/samanta-orellana). Weevil Workers Group.
+[Hidden Biodiversity: Exploring Neotropical Fungus Weevils With the Help of BHL](https://blog.library.si.edu/blog/2021/05/06/hidden-biodiversity-exploring-neotropical-fungus-weevils-with-the-help-of-bhl/#.Yc5U3lllCUk). Por Grace Constantino, Biodiversity Heritage Library Blog.
+
