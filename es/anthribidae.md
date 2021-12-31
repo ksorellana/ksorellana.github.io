@@ -17,7 +17,7 @@ La idea principal de mi tesis fue realizar una revisión del género _Gymnognath
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Zootaxa.jpg?raw=true" height=600> | 
 |:--:| 
-| *Portada del Catálogo de Anthribidae de Panamá.* |
+| Portada del Catálogo de Anthribidae de Panamá. |
 
 ## Resumen de los géneros de Anthribidae presentes en Panamá, basado en Orellana y Barrios, 2021.
 
