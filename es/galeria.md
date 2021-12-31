@@ -38,3 +38,7 @@ Aquí comparto algunas imágenes de los sitios en los que he colectado o sólo v
 | *Isla Barro Colorado, Panamá* |
 |:--:| 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/BIC2016Muelle.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/BICAra%C3%B1a.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/ErotylidaeBCI2016.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/BIC2016Capuchinos.jpg?raw=true">| | 
+
+| *Reserva Heloderma, Guatemala* |
+|:--:| 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Heloderma1.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Heloderma2.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Heloderma3.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Heloderma4.jpg?raw=true">| | 
