@@ -26,7 +26,3 @@ As a part of the [Symbiota Support Hub of iDigBio](https://www.idigbio.org/conta
 - [iNaturalist](https://www.inaturalist.org/people/s_orellana)
 - [Twitter](https://twitter.com/coleopterasam)
 
-
- <footer class="site-footer">
-        <span class="site-footer-owner">© 2021 K. Samanta Orellana.</span>
-        
