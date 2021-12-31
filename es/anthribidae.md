@@ -4,12 +4,11 @@
 
 # Familia Anthribidae
 
-Me he dedicado al estudio de la diversidad de **Anthribidae** (Coleoptera: Curculionoidea) desde 2016, cuando seleccioné esta familia para realizar mi tesis de maestría en Panamá. El primer año de trabajo consistió de muchas horas estudiando la poca literatura disponible, para poder reconocer las subfamilias, tribus, géneros y especies que estaban disponibles en las colecciones panameñas. 
+Me he dedicado al estudio de la diversidad de **Anthribidae** (Coleoptera: Curculionoidea) desde 2016, cuando seleccioné esta familia para realizar mi tesis de maestría en Panamá. Un catálogo actualizado de las especies de Panamá y una clave para los géneros locales fue publicada en 2021 como resultado. Mi investigación actual como estudiante de doctorado se enfoca en la sistemática de Anthribidae y en la diversidad Neotropical. Estoy trabajando en la revisión de _Gymnognathus_ Schoenherr para Centro América y en catálogos de especies para el resto de países de la región. Adicionalmente, busco construir la primera filogenia para los grupos superiores de la familia. 
 
-| <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Conoderinae" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_dorsal_edited_1624914182.jpg" alt="Conoderinae" width="320" height="213.4"> | 
+| <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_dorsal_edited_1624914182.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Mapa_AnthribidaePuntos_CentroAmerica_Elev.png?raw=true" alt="Mapa" width="320" height="235"> | 
 |:--:| 
-|*Gymnognathus claudia* Jordan, de Panamá|
-
+|1.), 2.) *Gymnognathus claudia* Jordan, de Panama, vistas lateral y dorsal. 3.) Mapa de Centro América|
 
 La idea principal de mi tesis fue realizar una revisión del género _Gymnognathus_ Schoenherr de Panamá, pero al darme cuenta de la falta de recursos para identificar este grupo, decidí que también era necesario hacer un catálogo actualizado y una clave taxonómica para identificar los géneros registrados en ese país. Luego de revisar los ejemplares en Panamá, completé los registros estudiando los especímenes panameños en las colecciones de Arizona State University (ASUCOB, ASUHIC) y del Smithsonian National Museum of Natural History (NMNH), donde ahora se encuentran los ejemplares de B.D Valentine, quien fue especialista del grupo. El catálogo de los [Anthribidae de Panamá](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera) fue publicado a prinicipios de 2021, en la revista _Zootaxa_. 
 
