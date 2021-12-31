@@ -20,6 +20,7 @@ As a part of the [Symbiota Support Hub of iDigBio](https://www.idigbio.org/conta
 
 ## Websites and Social Media
 - [ASU iSearch](https://isearch.asu.edu/profile/3433157)
+- [GitHub](https://github.com/ksorellana)
 - [ORCID](https://orcid.org/0000-0002-4098-5823)
 - [ResearchGate](https://www.researchgate.net/profile/Samanta_Orellana)
 - [Bionomia](https://bionomia.net/0000-0002-4098-5823)
