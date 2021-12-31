@@ -21,7 +21,7 @@ The main idea of my M.S. dissertation was to make a review of the genus _Gymnogn
 | *Front page of the Catalogue of the Anthribidae of Panama.* |
 
 
-### Summary of the groups of Anthribidae in Panama, based in Orellana & Barrios, 2021
+### Summary of the groups of Anthribidae in Panama, based in Orellana & Barrios, 2021.
 
 | Subfamily | Tribe | Genera | # of species |
 |-------|--------|---------|---------|
@@ -57,7 +57,7 @@ The main idea of my M.S. dissertation was to make a review of the genus _Gymnogn
 |  |  | *Holostilpna* Jordan  | 2 |
 |Total| 14 tribes | 30 genera | 134 species |
 
-# O'Brien Collection(ASUCOB)
+# O'Brien Collection (ASUCOB)
 
 One of my goals during my time at ASU, is to digitize as many Anthrbidae of the O'Brien collection as possible. So far (December 2021) I have digitized [2000  specimens](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxa=Anthribidae&usethes=1&taxontype=2). I have also been imaging representative groups and species, and I hope to add at least one image of each available species in the following years.
 
