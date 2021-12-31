@@ -5,7 +5,7 @@
 
 # Family Anthribidae
 
-I have dedicated to the study of the diversity of **Anthribidae** (Coleoptera: Curculionoidea) since 2016, when I chose to work with this family for my M.S. dissertation in Panama. An updated [catalog](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera) of the Panamanian species and a key to local genera  was published in 2021 as a result. My current research as a PhD student, is focused on the systematics of Anthribidae and the Neotropical diversity of the group. I am working on the generic revision of _Gymnognathus_ Schoenherr for Central America, and species catalogues for the rest of the countries in the region. Adicionally, I am looking to build the first higher-level phylogeny for the family. 
+My current research is focused on the systematics of **Anthribidae** and the Neotropical diversity of the group. I am working on the generic revision of _Gymnognathus_ Schoenherr for Central America, and species catalogues for the rest of the countries in the region. Additionally, I am looking to build the first higher-level phylogeny for the family. 
 
 | <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_dorsal_edited_1624914182.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Mapa_AnthribidaePuntos_CentroAmerica_Elev.png?raw=true" alt="Mapa" width="320" height="235"> | 
 |:--:| 
