@@ -23,6 +23,7 @@ The main idea of my M.S. dissertation was to make a review of the genus _Gymnogn
 
 ### Summary of the groups of Anthribidae in Panama, based in Orellana & Barrios, 2021.
 
+
 | Subfamily | Tribe | Genera | # of species |
 |-------|--------|---------|---------|
 | **Anthribinae** | Basitropini | *Eugonodes* Jordan | 1 |
@@ -55,7 +56,7 @@ The main idea of my M.S. dissertation was to make a review of the genus _Gymnogn
 |  |  | *Neoxenus* Valentine  | 2 |
 |  | Choragini | *Dysnos* Pascoe  | 2 |
 |  |  | *Holostilpna* Jordan  | 2 |
-|Total| 14 tribes | 30 genera | 134 species |
+|Total| 14 tribes  | 30 genera | 134 species |
 
 # O'Brien Collection (ASUCOB)
 
