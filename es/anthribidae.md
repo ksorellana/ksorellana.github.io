@@ -4,7 +4,7 @@
 
 # Familia Anthribidae
 
-Mi investigación actual se enfoca en la sistemática de Anthribidae y en la diversidad Neotropical. Estoy trabajando en la revisión de _Gymnognathus_ Schoenherr para Centro América y en catálogos de especies para el resto de países de la región. Adicionalmente, busco construir la primera filogenia para los grupos superiores de la familia. 
+Mi investigación actual se enfoca en la sistemática de Anthribidae y en la diversidad Neotropical de la familia. Estoy trabajando en la revisión de _Gymnognathus_ Schoenherr para Centro América y en catálogos de especies para el resto de países de la región. Adicionalmente, busco construir la primera filogenia para los grupos superiores de la familia. 
 
 | <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_dorsal_edited_1624914182.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Mapa_AnthribidaePuntos_CentroAmerica_Elev.png?raw=true" alt="Mapa" width="320" height="235"> | 
 |:--:| 
