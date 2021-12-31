@@ -7,9 +7,9 @@
 
 My research interests are focused on the **diversity of Neotropical insects**, especially the order Coleoptera. During my carreer, I have had the opoortunity of working with different groups, but currently I am focused on the taxonomy and systematics of the family **Anthribidae** (Coleoptera: Curculionoidea). My resear is develped mainly in entomological collections, but I have also participated in a broad number of collecting trips, especially in Guatemala.  
 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Colecci%C3%B3nUSAC.jpg?raw=true" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Criocerinae.jpg?raw=true" width="320" height="213.4">  | 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Criocerinae.jpg?raw=true" width="320" height="213.4">  | 
 |:--:| 
-| *Especimens from entomological collections in Guatemala 1.) USAC. 2.) UVG.* |
+| *Especimens from UVG entomological collection, in Guatemala.* |
 
 ## Guatemala
 
