@@ -10,13 +10,20 @@ Me he dedicado al estudio de la diversidad de **Anthribidae** (Coleoptera: Curcu
 |:--:| 
 |1.), 2.) *Gymnognathus claudia* Jordan, de Panama, vistas lateral y dorsal. 3.) Mapa de Centro América|
 
+
+# Presentaciones
+
+[<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/WeevilMeeting.jpg?raw=true" alt="Anthribidae Weevil Meeting" width="380" height="210">](https://www.youtube.com/watch?v=7H84Io2lWyA&t=2s)
+
+# Anthribidae de Panamá
+
 La idea principal de mi tesis fue realizar una revisión del género _Gymnognathus_ Schoenherr de Panamá, pero al darme cuenta de la falta de recursos para identificar este grupo, decidí que también era necesario hacer un catálogo actualizado y una clave taxonómica para identificar los géneros registrados en ese país. Luego de revisar los ejemplares en Panamá, completé los registros estudiando los especímenes panameños en las colecciones de Arizona State University (ASUCOB, ASUHIC) y del Smithsonian National Museum of Natural History (NMNH), donde ahora se encuentran los ejemplares de B.D Valentine, quien fue especialista del grupo. El catálogo de los [Anthribidae de Panamá](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera) fue publicado a prinicipios de 2021, en la revista _Zootaxa_. 
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Zootaxa.jpg?raw=true" height=600> | 
 |:--:| 
 | *Portada del Catálogo de Anthribidae de Panamá.* |
 
-# Anthribidae de Panamá
+## Resumen de los géneros de Anthribidae presentes en Panamá, basado en Orellana y Barrios, 2021.
 
 | Subfamilia | Tribu | Género | # de especies |
 |-------|--------|---------|---------|
