@@ -19,7 +19,7 @@ The study of the biodiversity of Guatemala is one of my main interests. I have c
 |:--:| 
 | *1.) National Park Laguna Lachuá. 2.) Gyrophaenina sp. (Staphylinidae: Aleocharinae: Homalotini). 3.) Cookeina speciosa (Fr). 4.) Maxilla of Gyrophaenina.* |
 
-After finishing my degree in Biology, I continued doing entomological research in the private sector, and kept collaborating with the entomological collections by depositing the vouchers of different projects. In 2015, I edited, along Dr. Jiichiro Yoshimoto and Dr. Enio Cano (†), the book "Insects of Guatemala" (in Spanish), which has turned in a relevant tool for the entomology students in the country. In 2018 the second edition was published, with some updates, and in 2020, I published the website ["Insects of Guatemala"](http://insectosdeguatemala.org/), to share additional information about the insect groups and the entomological collections in the country.
+After finishing my degree in Biology, I continued doing entomological research in the private sector, and kept collaborating with the entomological collections by depositing the vouchers of different projects. In 2015, I edited, along Dr. Jiichiro Yoshimoto and Dr. Enio Cano (†), the book "Insects of Guatemala" (in Spanish), which has turned in a relevant tool for the entomology students in the country. In 2018 the second edition was published with some updates, and in 2020, I published the website ["Insects of Guatemala"](http://insectosdeguatemala.org/), to share additional information about the insect groups and the entomological collections in the country.
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Afichejpg.jpg?raw=true" width="321.6" height="479.1"> | 
 |:--:| 
