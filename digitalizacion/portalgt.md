@@ -1,3 +1,3 @@
-##Portal
-
-Prueba
+layout: page
+title: "digi"
+permalink: /digi/
