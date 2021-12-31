@@ -32,13 +32,13 @@ Aquí comparto algunas imágenes de los sitios en los que he colectado o sólo v
 
 | *San Lorenzo, Colón, Panama* |
 |:--:| 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/SanLorenzo2017.jpg?raw=true" alt="San Lorenzo"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/19_G%C3%B3ndola.jpg?raw=true" width="360" height="640">|
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/SanLorenzo2017.jpg?raw=true" alt="San Lorenzo"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/SanLorenzo2.jpg?raw=true">  <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/SanLorenzo3.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/19_G%C3%B3ndola.jpg?raw=true">|
 
 
-| *Isla Barro Colorado, Panama* |
+| *Barro Colorado Island, Panama* |
 |:--:| 
-| <img src="hhttps://github.com/ksorellana/ksorellana.github.io/blob/main/images/BIC2016Muelle.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/BICAra%C3%B1a.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/ErotylidaeBCI2016.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/BIC2016Capuchinos.jpg?raw=true">| | 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/BIC2016Muelle.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/BICAra%C3%B1a.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/ErotylidaeBCI2016.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/BIC2016Capuchinos.jpg?raw=true">| | 
 
-| *Reserva Heloderma, Guatemala* |
+| *Heloderma Natural Reserve, Guatemala* |
 |:--:| 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Heloderma1.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Heloderma2.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Heloderma3.jpg?raw=true"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Heloderma4.jpg?raw=true">| | 
