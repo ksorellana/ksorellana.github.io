@@ -28,5 +28,5 @@ As a part of the [Symbiota Support Hub of iDigBio](https://www.idigbio.org/conta
 
 
  <footer class="site-footer">
-        <span class="site-footer-owner">© 2021 K. Samanta Orellana</a>.</span>
+        <span class="site-footer-owner">© 2021 K. Samanta Orellana.</span>
         
