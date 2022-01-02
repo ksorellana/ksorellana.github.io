@@ -16,8 +16,7 @@ Since 2020, I started a collaboration with curators in Guatemala, to digitize th
 
 ## Digitization of Latin American collections
 
-I am a member of the Symbiota Support Hub of ASU and iDigBio, acting as [International Community Coordinator](https://www.idigbio.org/contact/Samanta_Orellana). I have regular meetings and workshops with curators and collection managers from several countries in Latin America, to help them start with their digitization projects using the Symbiota portals. Currently, I am assesing the GBIF-BID project ["Mobilizing natural history collections of the Dominican Republic"](https://www.gbif.org/project/BID-CA2020-031-NAC/mobilizing-natural-history-collections-of-the-dominican-republic). 
-
+I am a member of the Symbiota Support Hub of ASU and iDigBio, acting as [International Community Coordinator](https://www.idigbio.org/contact/Samanta_Orellana). I have regular meetings and workshops with curators and collection managers from several countries in Latin America, to help them start with their digitization projects using the Symbiota portals. Currently, I am a digitization advisor for the GBIF-BID project ["Mobilizing natural history collections of the Dominican Republic"](https://www.gbif.org/project/BID-CA2020-031-NAC/mobilizing-natural-history-collections-of-the-dominican-republic), where ASU is acting as a partner of the main biodiversity institutions of the country. 
 
 ## Presentations
 
