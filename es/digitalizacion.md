@@ -16,13 +16,11 @@ Desde inicios de 2020, inicié una colaboración a distancia con curadores en Gu
 
 ## Presentaciones
 
-- **Orellana, K.S.** (2021). Introducción a la Plataforma Symbiota. Taller Virtual "Introducción a la Digitalización de Colecciones Biológicas con Symbiota", XXIV Congreso de la Sociedad Mesoamericana para la Biología y la Conservación [virtual](https://www.youtube.com/watch?v=KARir8thZ4g).
+- **Orellana, K.S.** (2021). Introducción a la Plataforma Symbiota. Taller Virtual "Introducción a la Digitalización de Colecciones Biológicas con Symbiota", XXIV Congreso de la Sociedad Mesoamericana para la Biología y la Conservación [(virtual(](https://www.youtube.com/watch?v=KARir8thZ4g).
 
-- **Orellana, K.S.** (2021). Introducción a los Datos de Biodiversidad. Taller Virtual "Introducción a la Digitalización de Colecciones Biológicas con Symbiota", XXIV Congreso de la Sociedad Mesoamericana para la Biología y la Conservación [virtual](https://www.youtube.com/watch?v=o6qCm_y6cvA).
+- **Orellana, K.S.** (2021). Introducción a los Datos de Biodiversidad. Taller Virtual "Introducción a la Digitalización de Colecciones Biológicas con Symbiota", XXIV Congreso de la Sociedad Mesoamericana para la Biología y la Conservación [(virtual)](https://www.youtube.com/watch?v=o6qCm_y6cvA).
 
 - **Orellana, K.S.** (2021). Symbiota: Una plataforma para mobilizar, integrar y usar datos de colecciones biológicas. Serie de Webinars 2021, Sistema de Información sobre Biodiversidad de Colombia (virtual).
-
-- **Orellana, K.S.** (2020). “Portal de Biodiversidad de Guatemala: Digitalizando las colecciones biológicas del país. Serie de Conferencias "Mujeres en STEM: Ciencia, Tecnología, Ingeniería y Matemáticas, Women Who Code, Guatemala (virtual).
 
 - **Orellana, K.S.** (2020). “Portal de Biodiversidad de Guatemala: Digitalizando las colecciones biológicas del país. Serie de Conferencias "Mujeres en STEM: Ciencia, Tecnología, Ingeniería y Matemáticas, Women Who Code, Guatemala (virtual).
 
