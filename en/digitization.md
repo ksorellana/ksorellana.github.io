@@ -7,6 +7,21 @@
 <img src="https://symbiota.org/wp-content/uploads/LogoSymbiotaPNG-1980x1318.png" width="330" height="219.66"> 
 <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="200" height="200"> 
 
+## Presentations
+
+- **Orellana, K.S.** (2021). Introduction to Symbiota (in Spanish). Virtual Workshop "Introduction to the Digitization of Biological Collections with Symbiota", XXIV Meeting of the Mesoamerican Society for Biology and Conservation [virtual](https://www.youtube.com/watch?v=KARir8thZ4g).
+
+- **Orellana, K.S.** (2021). Introduction to Biodiversity Data (in Spanish). Virtual Workshop "Introduction to the Digitization of Biological Collections with Symbiota", XXIV Meeting of the Mesoamerican Society for Biology and Conservation [virtual](https://www.youtube.com/watch?v=o6qCm_y6cvA).
+
+- **Orellana, K.S.** (2021). “Symbiota: A platform to mobilize, integrate and use natural history collections data (In Spanish). Webinars Series 2021, Sistema de Información sobre Biodiversidad de Colombia (virtual).
+
+- **Orellana, K.S.** (2021). “Guatemala Biodiversity Portal: Digitizing the biological collections of the country” (In Spanish). Conference Series “Women in STEM: Science, Technology, Engineering, and Mathematics, Women Who Code, Guatemala (virtual).
+
+- **Orellana, K.S.** (2020). Promoting the digitization of Latin American entomological collections using Symbiota portals”. Equity, Justice and Inclusion in Ento: Making Entomological Collections Research More Accessible Mini Symposium. Entomological Collections Network Annual Meeting (virtual [(virtual)](https://www.youtube.com/watch?v=hzHcj20PILs&t=6s).
+
+[<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ECN_Digitization_EJI.jpg?raw=true" alt="ECN Digitization" width="380" height="210">](https://youtu.be/hzHcj20PILs)
+
+- **Orellana, K.S.** (2020). Digitization of Mesoamerican Biological Collections using Symbiota portals. (In Spanish). Mesoamerican Society of Biology and Conservation, I Virtual Meeting (virtual). Mexico [(virtual)](https://www.youtube.com/watch?v=jHERo9n3_QE)
 
 
 Under construction!
