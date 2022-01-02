@@ -8,9 +8,16 @@ During my time as a Research Assistant in the [Biodiversity Knowledge Integratio
 
 [<img src="https://symbiota.org/wp-content/uploads/LogoSymbiotaPNG-1980x1318.png" width="330" height="219.66">](https://symbiota.org)
  
+# Guatemala Biodiversity Portal
+
 Since 2020, I started a collaboration with curators in Guatemala, to digitize the [entomological collections](http://insectosdeguatemala.org/colecciones/), and this was expanded to other collections holding different groups (27 collections until December 2021) in three academic institutions in the country. This effort allowed the creation of the [Guatemala Biodiversity Symbiota Portal](https://biodiversidad.gt/portal/), in which the local biological collections are being actively digitized. I am also digitizing the Guatemalan specimens in the ASU Biocollections ([ASUCOB](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=2), [ASUHIC](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=1)) and in my [research collection](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=20).
 
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="200" height="200">](https://biodiversidad.gt/portal/)
+
+## Digitization of Latin American collections
+
+I am a member of the Symbiota Support Hub of ASU and iDigBio, acting as [International Community Coordinator](https://www.idigbio.org/contact/Samanta_Orellana). I have regular meetings and workshops with curators and collection managers from several countries in Latin America, to help them start with their digitization projects using the Symbiota portals. Currently, I am assesing the GBIF-BID project ["Mobilizing natural history collections of the Dominican Republic"](https://www.gbif.org/project/BID-CA2020-031-NAC/mobilizing-natural-history-collections-of-the-dominican-republic). 
+
 
 ## Presentations
 
