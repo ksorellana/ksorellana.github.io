@@ -18,7 +18,7 @@ Since 2020, I started a collaboration with curators in Guatemala, to digitize th
 
 - **Orellana, K.S.** (2021). Introduction to Biodiversity Data (in Spanish). Virtual Workshop "Introduction to the Digitization of Biological Collections with Symbiota", XXIV Meeting of the Mesoamerican Society for Biology and Conservation [virtual](https://www.youtube.com/watch?v=o6qCm_y6cvA).
 
-- **Orellana, K.S.** (2021). “Symbiota: A platform to mobilize, integrate and use natural history collections data (In Spanish). Webinars Series 2021, Sistema de Información sobre Biodiversidad de Colombia (virtual).
+- **Orellana, K.S.** (2021). “Symbiota: A platform to mobilize, integrate and use natural history collections data (In Spanish). Webinars Series 2021, Sistema de Información sobre Biodiversidad de Colombia [(virtual)](https://www.youtube.com/watch?v=9QmRcfnyOIo&t=55s).
 
 - **Orellana, K.S.** (2021). “Guatemala Biodiversity Portal: Digitizing the biological collections of the country” (In Spanish). Conference Series “Women in STEM: Science, Technology, Engineering, and Mathematics, Women Who Code, Guatemala (virtual).
 
