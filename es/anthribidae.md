@@ -11,7 +11,7 @@ Mi investigación actual se enfoca en la sistemática de Anthribidae y en la div
 |1.), 2.) *Gymnognathus claudia* Jordan, de Panama, vistas lateral y dorsal. 3.) Mapa de Centro América|
 
 
-# Anthribidae de Panamá
+## Anthribidae de Panamá
 
 La idea principal de mi tesis fue realizar una revisión del género _Gymnognathus_ Schoenherr de Panamá, pero al darme cuenta de la falta de recursos para identificar este grupo, decidí que también era necesario hacer un catálogo actualizado y una clave taxonómica para identificar los géneros registrados en ese país. Luego de revisar los ejemplares en Panamá, completé los registros estudiando los especímenes panameños en las colecciones de Arizona State University (ASUCOB, ASUHIC) y del Smithsonian National Museum of Natural History (NMNH), donde ahora se encuentran los ejemplares de B.D Valentine, quien fue especialista del grupo. El catálogo de los [Anthribidae de Panamá](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera) fue publicado a prinicipios de 2021, en la revista _Zootaxa_. 
 
@@ -19,7 +19,7 @@ La idea principal de mi tesis fue realizar una revisión del género _Gymnognath
 |:--:| 
 | Portada del Catálogo de Anthribidae de Panamá. |
 
-## Resumen de los géneros de Anthribidae presentes en Panamá, basado en Orellana y Barrios, 2021.
+#### Resumen de los géneros de Anthribidae presentes en Panamá, basado en Orellana y Barrios, 2021.
 
 | Subfamilia | Tribu | Género | # de especies |
 |-------|--------|---------|---------|
@@ -55,19 +55,19 @@ La idea principal de mi tesis fue realizar una revisión del género _Gymnognath
 |  |  | *Holostilpna* Jordan  | 2 |
 |Total| 14 tribus | 30 géneros | 134 especies |
 
-# Colección O'Brien (ASUCOB)
+## Colección O'Brien (ASUCOB)
 
 Una de mis metas durante mi tiempo en ASU, es digitalizar la mayor cantidad de Anthrbidae de la colección O'Brien. Hasta el momento (diciembre 2021) llevo un total de [2000 especímenes](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxa=Anthribidae&usethes=1&taxontype=2) digitalizados. También me he dedicado a tomar fotografías de los grupos y especies más representativos, y espero agregar al menos una imagen de cada especie en los siguientes años.
 
 <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015302_lateral_edited_1617656844.jpg" alt="Eucorynus" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015336_lateral_edited_1611088870.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015263_lateral_edited_1612974176.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015371_lateral_edited_1618628751.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014482_lateral_edited_1627430202.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015372_lateral_edited_1618417558.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015427_lateral_edited_1612548382.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015292_lateral_edited_1609357262.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015327_lateral_edited_1619129450.jpg" alt="Mycteis" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014210_lateral_edited_1629252381.jpg" alt="Discotenes claudia Jordan" width="320" height="213.4">
 
-# Presentaciones
+## Presentaciones
 
 -**Orellana, K.S.** (2021) Diversity and Systematics of Central American Anthribidae (Curculionoidea). Weevil Workers Meeting.
 
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/WeevilMeeting.jpg?raw=true" alt="Anthribidae Weevil Meeting" width="390" height="210">](https://www.youtube.com/watch?v=7H84Io2lWyA&t=2s)
 
-# Divulgación
+## Divulgación
 
 -[Featured Researcher](https://www.curculionoidea.org/featured-researchers/samanta-orellana). Weevil Workers Group.
 
