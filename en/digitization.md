@@ -4,8 +4,13 @@
 
 # Collection digitization using Symbiota
 
-<img src="https://symbiota.org/wp-content/uploads/LogoSymbiotaPNG-1980x1318.png" width="330" height="219.66"> 
-<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="200" height="200"> 
+During my time as a Research Assistant in the [Biodiversity Knowledge Integration Center, at Arizona State University](https://biokic.asu.edu/collections), I had the opportunity to learn about the digitization of entomological collections in [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php), one of the Symbiota portals developed and mantained by ASU. [Symbiota](https://symbiota.org) is an open source platform, used to generate virtual portals that allow the management and movilization of biological collections of all types which facilitates its use by institutions without a big technological infrastrucure.
+
+[<img src="https://symbiota.org/wp-content/uploads/LogoSymbiotaPNG-1980x1318.png" width="330" height="219.66">](https://symbiota.org)
+ 
+Since 2020, I started a collaboration with curators in Guatemala, to digitize the [entomological collections](http://insectosdeguatemala.org/colecciones/), and this was expanded to other collections holding different groups (27 collections until December 2021) in three academic institutions in the country. This effort allowed the creation of the [Guatemala Biodiversity Symbiota Portal](https://biodiversidad.gt/portal/), in which the local biological collections are being actively digitized. I am also digitizing the Guatemalan specimens in the ASU Biocollections (ASUCOB, ASUHIC) and in my [research collection](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=20&stat=taxonomy#taxonomystats).
+
+[<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="200" height="200">](https://biodiversidad.gt/portal/)
 
 ## Presentations
 
@@ -22,6 +27,3 @@
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ECN_Digitization_EJI.jpg?raw=true" alt="ECN Digitization" width="380" height="210">](https://youtu.be/hzHcj20PILs)
 
 - **Orellana, K.S.** (2020). Digitization of Mesoamerican Biological Collections using Symbiota portals. (In Spanish). Mesoamerican Society of Biology and Conservation, I Virtual Meeting (virtual). Mexico [(virtual)](https://www.youtube.com/watch?v=jHERo9n3_QE)
-
-
-Under construction!
