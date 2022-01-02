@@ -8,19 +8,18 @@ Durante mi tiempo como asistente de investigación en las [Biocolecciones de Ari
 
 [<img src="https://symbiota.org/wp-content/uploads/LogoSymbiotaPNG-1980x1318.png" width="330" height="219.66">](https://symbiota.org)
  
-Desde inicios de 2020, inicié una colaboración a distancia con curadores en Guatemala, para digitalizar las [colecciones entomológicas](http://insectosdeguatemala.org/colecciones/), y esto se expandió a colecciones de otros grupos (27 hasta diciembre 2021) en tres instituciones universitarias del país. Esto dio como resultado el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/), en el cual se están digitalizando activamente las colecciones biológicas locales. Otros especímenes de insectos de Guatemala se encuentran digitalizados en el perfil de mi [colección](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=20&stat=taxonomy#taxonomystats).
-
+Desde inicios de 2020, inicié una colaboración a distancia con curadores en Guatemala, para digitalizar las [colecciones entomológicas](http://insectosdeguatemala.org/colecciones/), y esto se expandió a colecciones de otros grupos (27 hasta diciembre 2021) en tres instituciones universitarias del país. Esto dio como resultado el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/), en el cual se están digitalizando activamente las colecciones biológicas locales. También estoy digitalizando especímenes de insectos de Guatemala que se encuentran en las colecciones de Arizona State University ([ASUCOB](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=2), [ASUHIC](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=1)) y en mi [colección de investigación](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=20&stat=taxonomy#taxonomystats).
 
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="200" height="200">](https://biodiversidad.gt/portal/)
-       
+
 
 ## Presentaciones
 
-- **Orellana, K.S.** (2021). Introducción a la Plataforma Symbiota. Taller Virtual "Introducción a la Digitalización de Colecciones Biológicas con Symbiota", XXIV Congreso de la Sociedad Mesoamericana para la Biología y la Conservación [(virtual(](https://www.youtube.com/watch?v=KARir8thZ4g).
+- **Orellana, K.S.** (2021). Introducción a la Plataforma Symbiota. Taller Virtual "Introducción a la Digitalización de Colecciones Biológicas con Symbiota", XXIV Congreso de la Sociedad Mesoamericana para la Biología y la Conservación [(virtual)](https://www.youtube.com/watch?v=KARir8thZ4g).
 
 - **Orellana, K.S.** (2021). Introducción a los Datos de Biodiversidad. Taller Virtual "Introducción a la Digitalización de Colecciones Biológicas con Symbiota", XXIV Congreso de la Sociedad Mesoamericana para la Biología y la Conservación [(virtual)](https://www.youtube.com/watch?v=o6qCm_y6cvA).
 
-- **Orellana, K.S.** (2021). Symbiota: Una plataforma para mobilizar, integrar y usar datos de colecciones biológicas. Serie de Webinars 2021, Sistema de Información sobre Biodiversidad de Colombia (virtual).
+- **Orellana, K.S.** (2021). Symbiota: Una plataforma para mobilizar, integrar y usar datos de colecciones biológicas. Serie de Webinars 2021, Sistema de Información sobre Biodiversidad de Colombia [(virtual)](https://www.youtube.com/watch?v=9QmRcfnyOIo&t=55s).
 
 - **Orellana, K.S.** (2020). “Portal de Biodiversidad de Guatemala: Digitalizando las colecciones biológicas del país. Serie de Conferencias "Mujeres en STEM: Ciencia, Tecnología, Ingeniería y Matemáticas, Women Who Code, Guatemala (virtual).
 
