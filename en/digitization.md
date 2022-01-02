@@ -14,7 +14,7 @@ Since 2020, I started a collaboration with curators in Guatemala, to digitize th
 
 ## Presentations
 
-- **Orellana, K.S.** (2021). Introduction to Symbiota (in Spanish). Virtual Workshop "Introduction to the Digitization of Biological Collections with Symbiota", XXIV Meeting of the Mesoamerican Society for Biology and Conservation [virtual](https://www.youtube.com/watch?v=KARir8thZ4g).
+- **Orellana, K.S.** (2021). Introduction to Symbiota (in Spanish). Virtual Workshop "Introduction to the Digitization of Biological Collections with Symbiota", XXIV Meeting of the Mesoamerican Society for Biology and Conservation [(virtual)](https://www.youtube.com/watch?v=KARir8thZ4g).
 
 - **Orellana, K.S.** (2021). Introduction to Biodiversity Data (in Spanish). Virtual Workshop "Introduction to the Digitization of Biological Collections with Symbiota", XXIV Meeting of the Mesoamerican Society for Biology and Conservation [virtual](https://www.youtube.com/watch?v=o6qCm_y6cvA).
 
