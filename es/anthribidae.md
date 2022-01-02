@@ -15,7 +15,7 @@ Mi investigación actual se enfoca en la sistemática de Anthribidae y en la div
 
 Durante mi estadía en Panamá, inicié un catálogo actualizado y una clave taxonómica para identificar los géneros registrados en ese país. Luego de revisar los ejemplares en Panamá, completé los registros revisando los especímenes panameños en las colecciones de Arizona State University (ASUCOB, ASUHIC) y del Smithsonian National Museum of Natural History (NMNH), donde ahora se encuentran los ejemplares de B.D Valentine, quien fue especialista del grupo. El catálogo de los [Anthribidae de Panamá](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera), con 134 especies registradas para el país,  fue publicado a prinicipios de 2021, en la revista _Zootaxa_. La publicación incluye 44 especies reportadas por primera vez en Panamá y una clave ilustrada para los 30 géneros en el país. 
 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Zootaxa.jpg?raw=true" height=600> | 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Zootaxa.jpg?raw=true" height=400> | 
 |:--:| 
 | Portada del Catálogo de Anthribidae de Panamá. |
 
