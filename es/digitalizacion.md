@@ -1,4 +1,4 @@
-**[Go to English version](https://ksorellana.github.io/)**
+*[Go to English version](https://ksorellana.github.io/)**
 
 | [Inicio](https://ksorellana.github.io/es/inicio) | [Entomología](https://ksorellana.github.io/es/entomologia) | [Anthribidae](https://ksorellana.github.io/es/anthribidae) | [Digitalización](https://ksorellana.github.io/es/digitalizacion) |  [Galería](https://ksorellana.github.io/es/galeria) |
 
@@ -14,7 +14,20 @@ Desde inicios de 2020, inicié una colaboración a distancia con curadores en Gu
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="200" height="200">](https://biodiversidad.gt/portal/)
        
 
-# Recursos relacionados
+## Presentaciones
+
+- **Orellana, K.S.** (2021). Introducción a la Plataforma Symbiota. Taller Virtual "Introducción a la Digitalización de Colecciones Biológicas con Symbiota", XXIV Congreso de la Sociedad Mesoamericana para la Biología y la Conservación [virtual](https://www.youtube.com/watch?v=KARir8thZ4g).
+
+- **Orellana, K.S.** (2021). Introducción a los Datos de Biodiversidad. Taller Virtual "Introducción a la Digitalización de Colecciones Biológicas con Symbiota", XXIV Congreso de la Sociedad Mesoamericana para la Biología y la Conservación [virtual](https://www.youtube.com/watch?v=o6qCm_y6cvA).
+
+- **Orellana, K.S.** (2021). Symbiota: Una plataforma para mobilizar, integrar y usar datos de colecciones biológicas. Serie de Webinars 2021, Sistema de Información sobre Biodiversidad de Colombia (virtual).
+
+- **Orellana, K.S.** (2020). “Portal de Biodiversidad de Guatemala: Digitalizando las colecciones biológicas del país. Serie de Conferencias "Mujeres en STEM: Ciencia, Tecnología, Ingeniería y Matemáticas, Women Who Code, Guatemala (virtual).
+
+- **Orellana, K.S.** (2020). “Portal de Biodiversidad de Guatemala: Digitalizando las colecciones biológicas del país. Serie de Conferencias "Mujeres en STEM: Ciencia, Tecnología, Ingeniería y Matemáticas, Women Who Code, Guatemala (virtual).
+
+- **Orellana, K.S.** (2020). Promoting the digitization of Latin American entomological collections using Symbiota portals”. Equity, Justice and Inclusion in Ento: Making Entomological Collections Research More Accessible Mini Symposium. Entomological Collections Network Annual Meeting (virtual [(virtual)](https://www.youtube.com/watch?v=hzHcj20PILs&t=6s).
 
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/ECN_Digitization_EJI.jpg?raw=true" alt="ECN Digitization" width="380" height="210">](https://youtu.be/hzHcj20PILs)
 
+- **Orellana, K.S.** (2020). Digitalización de Colecciones Biológicas Mesoamericanas con Portales Symbiota. I Congreso Virtual de la Sociedad Mesoamericana para la Biología y la Conservación. México [(virtual)](https://www.youtube.com/watch?v=jHERo9n3_QE).
