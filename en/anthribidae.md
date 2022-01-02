@@ -66,9 +66,17 @@ One of my goals during my time at ASU, is to digitize as many Anthrbidae of the 
 
 # Presentations
 
--**Orellana, K.S.** (2021) Diversity and Systematics of Central American Anthribidae (Curculionoidea). Weevil Workers Meeting.
+-**Orellana, K.S.** (2021) Diversity and Systematics of Central American Anthribidae (Curculionoidea). Weevil Workers Meeting [(virtual)](https://www.youtube.com/watch?v=7H84Io2lWyA&t=2s)..
 
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/WeevilMeeting.jpg?raw=true" alt="Anthribidae Weevil Meeting" width="390" height="210">](https://www.youtube.com/watch?v=7H84Io2lWyA&t=2s)
+
+- **Orellana, K.S.** (2020). Current studies on Central American Anthribidae (Coleoptera: Curculionoidea): The impressive diversity of fungus weevils in Panama. Entomological Society of America Annual Meeting, Florida, USA (virtual).
+
+- **Orellana, K.S.** (2020). “Collection-based research: Discovering the Neotropical Anthribidae”. II Symposium of Evolutionary Biology, School of Life Sciences, Arizona State University, Arizona, USA (virtual).
+
+- **Orellana, K.S.** (2019). Research experiences in Central America: Tropical forests, beetles and collections. II Symposium of Evolutionary Biology, School of Life Sciences, Arizona State University, Arizona, Estados Unidos.
+
+- **Orellana, K.S.** (2018). New country records and range extensions for the Anthribidae (Coleoptera: Curculionoidea) of Panama” (In Spanish). III Colloquium of Biology. University of The Valley of Guatemala III Coloquio de Biología. Universidad del Valle de Guatemala. Guatemala. 
 
 # Outreach
 
