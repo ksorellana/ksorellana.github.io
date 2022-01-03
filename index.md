@@ -27,3 +27,5 @@ As a part of the [Symbiota Support Hub of iDigBio](https://www.idigbio.org/conta
 - [iNaturalist](https://www.inaturalist.org/people/s_orellana)
 - [Twitter](https://twitter.com/coleopterasam)
 
+Ⓒ 2022 K. Samanta Orellana [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Insectos.jpg?raw=true" alt="Logo" width="75" height="75">](http://insectosdeguatemala.org/)
+[<img src="https://serv.biokic.asu.edu/ecdysis/content/collicon/soac-soac.jpg" alt="Logo" width="75" height="75">](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=20) [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="75" height="75">](https://biodiversidad.gt/)
