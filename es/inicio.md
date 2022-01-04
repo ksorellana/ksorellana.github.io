@@ -1,7 +1,5 @@
 **[Go to English version](https://ksorellana.github.io/)**
 
-{{< button href="https://ksorellana.github.io/" text="Go to English version" >}}
-
 | [Inicio](https://ksorellana.github.io/es/inicio) | [Entomología](https://ksorellana.github.io/es/entomologia) | [Anthribidae](https://ksorellana.github.io/es/anthribidae) | [Digitalización](https://ksorellana.github.io/es/digitalizacion) |  [Galería](https://ksorellana.github.io/es/galeria) |
 
 
