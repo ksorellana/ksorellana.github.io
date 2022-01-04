@@ -7,7 +7,7 @@
 
 My research interests are focused on the **diversity of Neotropical insects**, especially the order Coleoptera. During my carreer, I have had the opoortunity of working with different groups, but currently I am focused on the taxonomy and systematics of the family **Anthribidae** (Coleoptera: Curculionoidea). My research is develped mainly in entomological collections, but I have also participated in a broad number of collecting trips, especially in Guatemala. One of my first fieldrtrips was as a student participant in the Leaf Litter Arthropods of Mesoamerica (LLAMA) project, leaded by Dr. Jack Longino, then from Evergreen State College, and Dr. Robert Anderson, from the Canadian Museum of Nature.  
 
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Criocerinae.jpg?raw=true" width="320" height="213.4">  | 
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/Criocerinae.jpg?raw=true">  | 
 |:--:| 
 | *Especimens from UVG entomological collection, in Guatemala.* |
 
