@@ -9,7 +9,7 @@ My current research is focused on the systematics of **Anthribidae** and the Neo
 
 | <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_dorsal_edited_1624914182.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Mapa_AnthribidaePuntosEcdysis_CentroAmerica.jpg?raw=true" alt="Mapa" width="320" height="235"> | 
 |:--:| 
-|1.), 2.) *Gymnognathus claudia* Jordan, from Panama, lateral and dorsal view. 3.) Map of some records of Anthribidae in Central America.|
+|1., 2.) *Gymnognathus claudia* Jordan, from Panama, lateral and dorsal view. 3.) Map of some records of Anthribidae in Central America.|
 
 
 ## Anthribidae of Panama
@@ -81,4 +81,4 @@ One of my goals during my time at ASU, is to digitize as many Anthrbidae of the 
 
 -[Featured Researcher](https://www.curculionoidea.org/featured-researchers/samanta-orellana). Weevil Workers Group.
 
--[Hidden Biodiversity: Exploring Neotropical Fungus Weevils With the Help of BHL](https://blog.library.si.edu/blog/2021/05/06/hidden-biodiversity-exploring-neotropical-fungus-weevils-with-the-help-of-bhl/#.Yc5U3lllCUk). Por Grace Constantino, Biodiversity Heritage Library Blog.
+-[Hidden Biodiversity: Exploring Neotropical Fungus Weevils With the Help of BHL](https://blog.library.si.edu/blog/2021/05/06/hidden-biodiversity-exploring-neotropical-fungus-weevils-with-the-help-of-bhl/#.Yc5U3lllCUk). By Grace Constantino, Biodiversity Heritage Library Blog.
