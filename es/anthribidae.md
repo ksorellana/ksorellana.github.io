@@ -8,7 +8,7 @@ Mi investigación actual se enfoca en la sistemática de Anthribidae y en la div
 
 | <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_dorsal_edited_1624914182.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Mapa_AnthribidaePuntosEcdysis_CentroAmerica.jpg?raw=true" alt="Mapa" width="320" height="235"> | 
 |:--:| 
-|1.), 2.) *Gymnognathus claudia* Jordan, de Panama, vistas lateral y dorsal. 3.) Mapa de Centro América|
+|1.), 2.) *Gymnognathus claudia* Jordan, de Panama, vistas lateral y dorsal. 3.) Mapa con algunos registros de Anthribidae en Centro América.|
 
 
 ## Anthribidae de Panamá
