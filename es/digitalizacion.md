@@ -27,8 +27,6 @@ Soy integrante del Symbiota Support Hub de ASU y iDigBio, participando como [Coo
 
 - **Orellana, K.S.** (2021). Symbiota: Una plataforma para mobilizar, integrar y usar datos de colecciones biológicas. Serie de Webinars 2021, Sistema de Información sobre Biodiversidad de Colombia [(virtual)](https://www.youtube.com/watch?v=9QmRcfnyOIo&t=55s).
 
-[<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/SiBColombia.jpg?raw=true" alt="ECN Digitization" width="380" height="210">](https://www.youtube.com/watch?v=9QmRcfnyOIo&t=55s)
-
 - **Orellana, K.S.** (2020). “Portal de Biodiversidad de Guatemala: Digitalizando las colecciones biológicas del país. Serie de Conferencias "Mujeres en STEM: Ciencia, Tecnología, Ingeniería y Matemáticas, Women Who Code, Guatemala (virtual).
 
 - **Orellana, K.S.** (2020). Promoting the digitization of Latin American entomological collections using Symbiota portals”. Equity, Justice and Inclusion in Ento: Making Entomological Collections Research More Accessible Mini Symposium. Entomological Collections Network Annual Meeting (virtual [(virtual)](https://www.youtube.com/watch?v=hzHcj20PILs&t=6s).
