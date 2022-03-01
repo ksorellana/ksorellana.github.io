@@ -1,5 +1,5 @@
 
-**[Ir a versión en español](https://ksorellana.github.io/es/entomology)**
+**[Ir a versión en español](https://ksorellana.github.io/es/entomologia)**
 
 | [Home](https://ksorellana.github.io) | [Entomology](https://ksorellana.github.io/en/entomology) | [Anthribidae](https://ksorellana.github.io/en/anthribidae) | [Digitization](https://ksorellana.github.io/en/digitization) |  [Gallery](https://ksorellana.github.io/en/gallery) |
 
