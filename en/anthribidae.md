@@ -5,7 +5,7 @@
 
 # Family Anthribidae
 
-My current research is focused on the systematics of **Anthribidae** and the Neotropical diversity of the group. I am working on the generic revision of _Gymnognathus_ Schoenherr for Central America, and species catalogues for the rest of the countries in the region. Additionally, I am looking to build the first higher-level phylogeny for the family. 
+My current research is focused on the systematics of **Anthribidae** and the Neotropical diversity of the group. The goal of my PhD dissertation is to build the first higher-level phylogeny for the family, using morphological and molecular data. I am also working on regional checklists for Guatemala (Orellana & Franz, _in press_), Costa Rica (Orellana & Mermudes, _in prep_), and Colombia (Orellana & Girón, _in prep_). 
 
 | <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_dorsal_edited_1624914182.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Mapa_AnthribidaePuntosEcdysis_CentroAmerica.jpg?raw=true" alt="Mapa" width="320" height="235"> | 
 |:--:| 
@@ -14,7 +14,7 @@ My current research is focused on the systematics of **Anthribidae** and the Neo
 
 ## Anthribidae of Panama
 
-During my M.S studies in Panama, I started to build an updated catalogue of the species of Anthribidae in Panama and a taxonomic key to genus level. After identifying the specimenes in Panamanian collections, I completed the catalogue with additional specimens in the collections at Arizona State University (ASUCOB, ASUHIC) and the Smithsonian National Museum of Natural History (NMNH), where the B.D Valentine collection is now housed. The catalogue of the [Anthribidae of Panama](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera) was published earlier in 2021, in the journal _Zootaxa_.   
+During my M.S studies in Panama, I started to build an updated catalogue of the species of Anthribidae in Panama and a taxonomic key to genus level. After identifying the specimenes in Panamanian collections, I completed the catalogue with additional specimens in the collections at Arizona State University (ASUCOB, ASUHIC) and the Smithsonian National Museum of Natural History (NMNH), where the B.D Valentine collection is now housed. The catalogue of the [Anthribidae of Panama](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera) was published earlier in 2021, in the journal _Zootaxa_. I also worked on the [generic revision](https://catalogosiidca.csuca.org/Record/UP.217159) of _Gymnognathus_ Schoenherr for the country. I am currently expanding the revision to include more Central American species.
 
 | <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Zootaxa.jpg?raw=true" height=400> | 
 |:--:| 
@@ -59,13 +59,15 @@ During my M.S studies in Panama, I started to build an updated catalogue of the 
 
 ## O'Brien Collection (ASUCOB)
 
-One of my goals during my time at ASU, is to digitize as many Anthrbidae of the O'Brien collection as possible. So far (December 2021) I have digitized [2000  specimens](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxa=Anthribidae&usethes=1&taxontype=2). I have also been imaging representative groups and species, and I hope to add at least one image of each available species in the following years.
+One of my goals during my time at ASU, is to digitize as many Anthrbidae of the O'Brien collection as possible. So far (July 2023) I have digitized [2600  specimens](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxa=Anthribidae&usethes=1&taxontype=2). I have also been imaging representative groups and species, and I hope to add at least one image of each available species in the following years.
 
 <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015302_lateral_edited_1617656844.jpg" alt="Eucorynus" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015336_lateral_edited_1611088870.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015263_lateral_edited_1612974176.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015371_lateral_edited_1618628751.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014482_lateral_edited_1627430202.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015372_lateral_edited_1618417558.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015427_lateral_edited_1612548382.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015292_lateral_edited_1609357262.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015327_lateral_edited_1619129450.jpg" alt="Mycteis" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014210_lateral_edited_1629252381.jpg" alt="Discotenes claudia Jordan" width="320" height="213.4">
 
 ## Presentations
 
--**Orellana, K.S.** (2021) Diversity and Systematics of Central American Anthribidae (Curculionoidea). Weevil Workers Meeting [(virtual)](https://www.youtube.com/watch?v=7H84Io2lWyA&t=2s).
+- **Orellana, S.** (2022). The O’Brien Collection, a valuable resource for the study of Anthribidae. Online Weevil Workers Meeting, Texas Tech University, United States Department of Agriculture, Canadian Museum of Nature ([virtual](https://www.youtube.com/watch?v=ZdvaG9udVUM)). 
+
+- **Orellana, K.S.** (2021) Diversity and Systematics of Central American Anthribidae (Curculionoidea). Weevil Workers Meeting [(virtual)](https://www.youtube.com/watch?v=7H84Io2lWyA&t=2s).
 
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/WeevilMeeting.jpg?raw=true" alt="Anthribidae Weevil Meeting" width="390" height="210">](https://www.youtube.com/watch?v=7H84Io2lWyA&t=2s)
 
