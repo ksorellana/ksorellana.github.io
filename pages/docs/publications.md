@@ -19,22 +19,21 @@ permalink: /docs/publications
   
 - **Orellana KS**, Girón J. (2024). State of the State of knowledge of the Anthribidae (Insecta: Coleoptera: Curculionoidea) in Colombia with a key to genera. Biota Colombiana, 25, 1-18. [https://doi.org/10.21068/2539200X.1149](https://doi.org/10.21068/2539200X.1149)
   
-- **Orellana KS**, Franz NM. (2023). Checklist of the Anthribidae (Coleoptera: Curculionoidea) of Guatemala, including new country records and a key to genera. In: Yoshimoto J, Schuster J, Monzón J. (Eds.) Biodiversidad de Guatemala. Vol. 3. Universidad del Valle de Guatemala: Guatemala. [https://doi.org/10.5281/zenodo.10424024](https://doi.org/10.5281/zenodo.10424024) (Book Chapter)
-  
-- **Orellana KS**, López ZM, Yoshimoto J, Quezada M, Prado L, Ambrocio AL, Dávila L, Barrios-Izás M, Bustamante M, Franz NM, Gilbert E. (2023). Digitalización de Colecciones Biológicas en el Portal Symbiota de Biodiversidad de Guatemala (Digitization of Natural History Collections in the Guatemala Biodiversity Symbiota Portal). In: Yoshimoto J, Schuster J & Monzón J. (Eds.) Biodiversidad de Guatemala. Vol. 3. Universidad del Valle de Guatemala: Guatemala. [https://doi.org/10.5281/zenodo.10424127](https://doi.org/10.5281/zenodo.10424127) (Book Chapter)
-  
-- Yoshimoto J, Cano EB, **Orellana S**. (Editors). (2023). Insectos de Guatemala: Guía de Identificación (Insects of Guatemala: Identification Guide). Third Edition. Guatemala: Universidad Del Valle de Guatemala and Universidad de San Carlos de Guatemala. (Book).
-  
 - **Orellana S**, Barrios H. (2021). Catalogue of the Anthribidae (Coleoptera: Curculionoidea) of Panama, including new country records and a key to genera. Zootaxa 4904 (1), 1-71. [https://www.mapress.com/zt/issue/view/zootaxa.4904.1](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera)
   
 - **Orellana S**, Barrios H. (2018). Abundancia de Coleópteros (Insecta: Coleoptera) en dos órdenes de macrohongos (Basidiomycota) de un bosque tropical de Panamá. Scientia Panamá 28(1): 45-59.
   
-- Yoshimoto J, Cano EB, **Orellana S**. (Editors). (2018). Insectos de Guatemala: Guía de Identificación (Insects of Guatemala: Identification Guide). Second Edition. Guatemala: Universidad Del Valle de Guatemala and Universidad de San Carlos de Guatemala. (Book).
-  
 - **Orellana S**, Quezada M. 2015. Efecto de la conformación del paisaje en coleópteros (Insecta: Coleoptera) asociados a macrohongos de la Ecorregión Lachuá, Alta Verapaz, Guatemala (Effect of landscape conformation on the coleopterans (Insecta: Coleoptera) associated with fungi of the Eco-region Lachuá, Alta Verapaz, Guatemala). Revista Científica 25(1): 37-48.
-
-- Yoshimoto J, Cano EB, **Orellana S**. (Editors). (2015). Insectos de Guatemala: Guía de Identificación (Insects of Guatemala: Identification Guide). Guatemala: Universidad Del Valle de Guatemala and Universidad de San Carlos de Guatemala. (Book).
   
+## Books and Book Chapters
+
+- Yoshimoto J, Cano EB, **Orellana S**. (Editors). ([2015](https://isbnguatemala.ageg.cerlalc.org/catalogo.php?mode=detalle&nt=12722), [2018](https://isbnguatemala.ageg.cerlalc.org/catalogo.php?mode=detalle&nt=15269), [2023](https://isbnguatemala.ageg.cerlalc.org/catalogo.php?mode=detalle&nt=21573)). Insectos de Guatemala: Guía de Identificación (Insects of Guatemala: Identification Guide). Three Editions. Guatemala: Universidad Del Valle de Guatemala and Universidad de San Carlos de Guatemala. (Book).
+
+- **Orellana KS**, Franz NM. (2023). Checklist of the Anthribidae (Coleoptera: Curculionoidea) of Guatemala, including new country records and a key to genera. In: Yoshimoto J, Schuster J, Monzón J. (Eds.) Biodiversidad de Guatemala. Vol. 3. Universidad del Valle de Guatemala: Guatemala. [https://doi.org/10.5281/zenodo.10424024](https://doi.org/10.5281/zenodo.10424024) (Book Chapter)
+  
+- **Orellana KS**, López ZM, Yoshimoto J, Quezada M, Prado L, Ambrocio AL, Dávila L, Barrios-Izás M, Bustamante M, Franz NM, Gilbert E. (2023). Digitalización de Colecciones Biológicas en el Portal Symbiota de Biodiversidad de Guatemala (Digitization of Natural History Collections in the Guatemala Biodiversity Symbiota Portal). In: Yoshimoto J, Schuster J & Monzón J. (Eds.) Biodiversidad de Guatemala. Vol. 3. Universidad del Valle de Guatemala: Guatemala. [https://doi.org/10.5281/zenodo.10424127](https://doi.org/10.5281/zenodo.10424127) (Book Chapter)
+ 
+
 ## **Published Abstracts** (* Presenting author)
 
 - **Orellana KS***, López ZM, Quezada ML, Yoshimoto J, Prado LM, Ambrocio A, Franz N, Gilbert E (2025) Five Years of the Guatemala Biodiversity Portal: Increasing Capacities for the Mobilization of Natural History Collections Using Symbiota. Biodiversity Information Science and Standards 9: e178671. [https://doi.org/10.3897/biss.9.178671](https://doi.org/10.3897/biss.9.178671)
