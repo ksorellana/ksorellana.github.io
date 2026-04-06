@@ -16,7 +16,7 @@ permalink: /docs/cv
 
 ## **Education**
 - **Ph.D. in Evolutionary Biology**, School of Life Sciences, Arizona State University, Tempe, AZ, United States of America (2024).
-- **M.Sc. in Entomology**, Universidad de Panama, Panama City, Panama (2018).
+- **M.Sc. in Entomology**, Universidad de Panama, Panama City, Panama (2018). Full Scholarship by [DAAD In Region Programme](https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/in-countryin-region-programme-in-developing-countries/).
 - **Postgraduate Diploma in Entomology**, Universidad de Panama, Panama City, Panama (2017).
 - **B.Sc. in Biology**, Universidad de San Carlos de Guatemala, Guatemala City, Guatemala (2014).
 
