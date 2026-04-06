@@ -25,7 +25,7 @@ permalink: /docs/publications
   
 - **Orellana S**, Quezada M. 2015. Efecto de la conformación del paisaje en coleópteros (Insecta: Coleoptera) asociados a macrohongos de la Ecorregión Lachuá, Alta Verapaz, Guatemala (Effect of landscape conformation on the coleopterans (Insecta: Coleoptera) associated with fungi of the Eco-region Lachuá, Alta Verapaz, Guatemala). Revista Científica 25(1): 37-48.
   
-## Books and Book Chapters
+## **Books and Book Chapters**
 
 - Yoshimoto J, Cano EB, **Orellana S**. (Editors). ([2015](https://isbnguatemala.ageg.cerlalc.org/catalogo.php?mode=detalle&nt=12722), [2018](https://isbnguatemala.ageg.cerlalc.org/catalogo.php?mode=detalle&nt=15269), [2023](https://isbnguatemala.ageg.cerlalc.org/catalogo.php?mode=detalle&nt=21573)). Insectos de Guatemala: Guía de Identificación (Insects of Guatemala: Identification Guide). Three Editions. Guatemala: Universidad Del Valle de Guatemala and Universidad de San Carlos de Guatemala. (Book).
 
