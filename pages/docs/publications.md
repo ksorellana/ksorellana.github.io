@@ -23,7 +23,12 @@ permalink: /docs/publications
   
 - **Orellana S**, Barrios H. (2018). Abundancia de Coleópteros (Insecta: Coleoptera) en dos órdenes de macrohongos (Basidiomycota) de un bosque tropical de Panamá. Scientia Panamá 28(1): 45-59.
   
-- **Orellana S**, Quezada M. 2015. Efecto de la conformación del paisaje en coleópteros (Insecta: Coleoptera) asociados a macrohongos de la Ecorregión Lachuá, Alta Verapaz, Guatemala (Effect of landscape conformation on the coleopterans (Insecta: Coleoptera) associated with fungi of the Eco-region Lachuá, Alta Verapaz, Guatemala). Revista Científica 25(1): 37-48.
+- **Orellana S**, Quezada M. (2015). Efecto de la conformación del paisaje en coleópteros (Insecta: Coleoptera) asociados a macrohongos de la Ecorregión Lachuá, Alta Verapaz, Guatemala (Effect of landscape conformation on the coleopterans (Insecta: Coleoptera) associated with fungi of the Eco-region Lachuá, Alta Verapaz, Guatemala). Revista Científica 25(1): 37-48. [https://doi.org/10.54495/Rev.Cientifica.v25i1.96](https://doi.org/10.54495/Rev.Cientifica.v25i1.96)
+
+ [<img src="https://media01.symbiota.org/media/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015231_lateral_edited_1609045282.jpg" alt="Basitropis nitidicutis" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=629039)
+
+![cover_issue_26_es_ES](https://github.com/user-attachments/assets/b9d8c25e-444c-417b-9e48-8a28545d0050)
+
   
 ## **Books and Book Chapters**
 
