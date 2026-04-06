@@ -6,6 +6,9 @@ background: /assets/theme/images/SOheader.jpg
 permalink: /docs/cv
 ---
 
+[![SOhomepage1](https://github.com/user-attachments/assets/7d06e753-98c9-4a47-af95-8e2a0bfb0df3)](https://samantaorellana.github.io/docs/cv)
+
+
 ## **Research Interests**
 - Taxonomy and systematics of fungus weevils (Coleoptera: Anthribidae).
 - Entomological collections management and digitization.
