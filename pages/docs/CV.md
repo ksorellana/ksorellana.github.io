@@ -44,9 +44,9 @@ permalink: /docs/cv
 
 ## **Publications and Presentations**
 ---
-(See [here](https://samantaorellana.github.io/docs/publications))
+(See [here](https://ksorellana.github.io/docs/publications))
 
 ## **Scientific Outreach**
 ---
-(See [here](https://samantaorellana.github.io/docs/outreach))
+(See [here](https://ksorellana.github.io/docs/outreach))
 
